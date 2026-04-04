@@ -35,6 +35,20 @@
                 "title": "prn222_sp25_fe_130672.3654",
                 "path": "images/prn222/fe/prn222_sp25_fe_130672.3654"
             }
+        },
+        "other": {
+            "prn222-fe-bl3w-fall25.5760": {
+                "title": "prn222-fe-bl3w-fall25.5760",
+                "path": "images/prn222/prn222-fe-bl3w-fall25.5760"
+            },
+            "prn222-su25-block5-1.4909": {
+                "title": "prn222-su25-block5-1.4909",
+                "path": "images/prn222/prn222-su25-block5-1.4909"
+            },
+            "prn222-su25-fe.4529": {
+                "title": "prn222-su25-fe.4529",
+                "path": "images/prn222/prn222-su25-fe.4529"
+            }
         }
     },
     "pru212": {
@@ -132,6 +146,14 @@
             "swd392_su25_final-exam.4148": {
                 "title": "swd392_su25_final-exam.4148",
                 "path": "images/swd392/fe/swd392_su25_final-exam.4148"
+            }
+        }
+    },
+    "unknown": {
+        "other": {
+            "prn222_sp25_fe_130672.3654": {
+                "title": "prn222_sp25_fe_130672.3654",
+                "path": "images/unknown/prn222_sp25_fe_130672.3654"
             }
         }
     }
