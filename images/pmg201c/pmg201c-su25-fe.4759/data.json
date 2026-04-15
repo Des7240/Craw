@@ -1,0 +1,984 @@
+[
+    {
+        "id": 0,
+        "image": "img_0.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 17
+            },
+            {
+                "text": "Theo định nghĩa của PMBOK (Project Management Institute), một dự án (project) có hai đặc điểm chính:  Tính duy nhất (Unique): Mỗi dự án tạo ra một sản phẩm, dịch vụ hoặc kết quả độc đáo, khác biệt so với công việc lặp đi lặp lại (operations). Tính tạm thời (Temporary): Dự án luôn có ngày bắt đầu và ngày kết thúc xác định, kết thúc khi mục tiêu đạt được hoặc khi dự án bị dừng.",
+                "count": 1
+            },
+            {
+                "text": "defined start => True undefine start => False",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "image": "img_1.webp",
+        "best_answer": "E",
+        "comments": [
+            {
+                "text": "e",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "img_2.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 18
+            },
+            {
+                "text": "A thay doi thoi gian = co the scope voi cost khac",
+                "count": 1
+            },
+            {
+                "text": "phạm vi và chi phí sẽ ảnh hưởng",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "img_3.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 19
+            },
+            {
+                "text": "complex",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "img_4.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "img_5.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 19
+            },
+            {
+                "text": "đúng",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "img_6.webp",
+        "best_answer": "E",
+        "comments": [
+            {
+                "text": "E",
+                "count": 19
+            },
+            {
+                "text": "\"NO\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "image": "img_7.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 19
+            },
+            {
+                "text": "change control process",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "image": "img_8.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C, D",
+                "count": 1
+            },
+            {
+                "text": "c,d",
+                "count": 1
+            },
+            {
+                "text": "c d",
+                "count": 6
+            },
+            {
+                "text": "cd",
+                "count": 10
+            },
+            {
+                "text": "dc",
+                "count": 1
+            },
+            {
+                "text": "time và cost",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "image": "img_9.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "image": "img_10.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 19
+            },
+            {
+                "text": "work breakdown structure will prevent work from slipping through the cracks",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "image": "img_11.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "image": "img_12.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 17
+            },
+            {
+                "text": "B",
+                "count": 1
+            },
+            {
+                "text": "đ",
+                "count": 1
+            },
+            {
+                "text": "Network Diagram = sơ đồ mạng lưới các công việc trong dự án, thể hiện trình tự (sequence) và mối quan hệ phụ thuộc (dependencies) giữa các task.   tuc la lam song song -> giam thoi gian du an xuong",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "image": "img_13.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 19
+            },
+            {
+                "text": "begin .... begin -> start to start",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "image": "img_14.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 18
+            },
+            {
+                "text": "Early Finish (EF) = ES + Duration Late Start (LS) = LF – Duration",
+                "count": 1
+            },
+            {
+                "text": "LS -> LF  ES -> EF",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "image": "img_15.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 15
+            },
+            {
+                "text": "vo thi quen la chon toan TRUE =)))",
+                "count": 1
+            },
+            {
+                "text": "khuc sau toan false =))))))",
+                "count": 1
+            },
+            {
+                "text": "14. forward pass = determine total duration backward pass = determine critical path & available float thì mới chọn True. Cứ trái ý trên thì F",
+                "count": 1
+            },
+            {
+                "text": "determine the total duration -> true determine the critical & available float -> false",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "image": "img_16.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 19
+            },
+            {
+                "text": "31. The Fast Tracking add => False  …………………… replan …. And …. => True",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "image": "img_17.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "ab",
+                "count": 16
+            },
+            {
+                "text": "A B",
+                "count": 2
+            },
+            {
+                "text": "a,b",
+                "count": 1
+            },
+            {
+                "text": "Variable costs (Chi phí biến đổi): thay đổi theo mức sản xuất. → ví dụ: nguyên vật liệu, lương công nhân theo sản phẩm làm ra. Fixed costs (Chi phí cố định): không đổi dù sản xuất nhiều hay ít. → ví dụ: tiền thuê nhà, khấu hao máy móc, điện nước cơ bản.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "image": "img_18.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 19
+            },
+            {
+                "text": "Top-down: Nhanh, rẻ, ít chi tiết → nhưng kém chính xác. Bottom-up: Chậm, tốn effort, cần WBS → nhưng chính xác cao.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "image": "img_19.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 18
+            },
+            {
+                "text": "khoan du phong cho rui ro da biet  -> specicific C",
+                "count": 1
+            },
+            {
+                "text": "c is tied to specific",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "image": "img_20.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 17
+            },
+            {
+                "text": "EVM = công cụ quản lý tích hợp để theo dõi tiến độ & chi phí.",
+                "count": 1
+            },
+            {
+                "text": "d. hiệu suất tieiens độ của dự án",
+                "count": 1
+            },
+            {
+                "text": "D. APPAP",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "image": "img_21.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 17
+            },
+            {
+                "text": "Project Management: scope – time – cost Quality Management:  Customer satisfaction (hài lòng khách hàng) Prevention over inspection (phòng ngừa hơn kiểm tra) Continuous improvement (cải tiến liên tục – Kaizen)",
+                "count": 1
+            },
+            {
+                "text": "tat ca tai PM",
+                "count": 1
+            },
+            {
+                "text": "32. Both recognize all => Có gì chọn nấy Management satisfaction, Project team/manager responsibility, one time improvement",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "image": "img_22.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 15
+            },
+            {
+                "text": "a. product -> false project -> true",
+                "count": 1
+            },
+            {
+                "text": "du tu nhien co cau False =)))))",
+                "count": 1
+            },
+            {
+                "text": "27. Product quality => Goods and servide  Project quality => Project management",
+                "count": 1
+            },
+            {
+                "text": "Product quality -> false Project quality -> true",
+                "count": 1
+            },
+            {
+                "text": "product sai project đúng",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "image": "img_23.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "Subsidiary Management Plans (các kế hoạch quản lý con)​  Scope management plan Schedule management plan Cost management plan Quality management plan Resource management plan Communications management plan Risk management plan Procurement management plan Stakeholder engagement plan",
+                "count": 1
+            },
+            {
+                "text": "A subsidiary",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "image": "img_24.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "B",
+                "count": 1
+            },
+            {
+                "text": "sao câu này QA lại tạo testcase nhỉ",
+                "count": 1
+            },
+            {
+                "text": "a Vai trò của Project Manager trong QA: đảm bảo rằng dự án có quy trình chất lượng, tiêu chuẩn, audit, training… chứ không trực tiếp làm test plan/test cases.",
+                "count": 1
+            },
+            {
+                "text": "Việc tạo test plan, test cases và kiểm thử sản phẩm thuộc về Quality Control = > A",
+                "count": 1
+            },
+            {
+                "text": "a",
+                "count": 13
+            },
+            {
+                "text": "qa = dam bao chat luong qc = kiem soat chat luong - tao testcase      A",
+                "count": 1
+            },
+            {
+                "text": "QA k làm test case -> false",
+                "count": 1
+            },
+            {
+                "text": "A.  QA k làm test case -> false",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "image": "img_25.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 15
+            },
+            {
+                "text": "B",
+                "count": 1
+            },
+            {
+                "text": "processes => QA => False",
+                "count": 1
+            },
+            {
+                "text": "Sure B",
+                "count": 1
+            },
+            {
+                "text": "Quality Assurance (QA): This is a set of planned, systematic activities focused on the process. The goal of QA is to ensure that the processes are being followed correctly to prevent defects and errors from happening in the first place. This matches the description in the question. Quality Control (QC): This is the process of inspection, measurement, and verification, which focuses on the final product or output. The goal of QC is to identify and correct defects in the product before it is delivered to the customer.",
+                "count": 1
+            },
+            {
+                "text": "A, cau truoc la QC, cau nay la QA riel",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "image": "img_26.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 17
+            },
+            {
+                "text": "a  Authority mới đúng",
+                "count": 1
+            },
+            {
+                "text": "Influence = khả năng tác động đến người khác, thuyết phục, định hướng hành động. Authority (quyền hạn) = có quyền chính thức để phân bổ nguồn lực, ra quyết định, phê duyệt.",
+                "count": 1
+            },
+            {
+                "text": "author - true",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "image": "img_27.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 19
+            },
+            {
+                "text": "BBBB",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "image": "img_28.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "image": "img_29.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 16
+            },
+            {
+                "text": "accountable luôn 1",
+                "count": 1
+            },
+            {
+                "text": "A (Accountable): Người chịu trách nhiệm cuối cùng, có quyền quyết định. Chỉ được có 1 người \"Accountable\" cho một task để tránh mâu thuẫn.",
+                "count": 1
+            },
+            {
+                "text": "D ( Accountable thì chỉ có 1, Responsible có thể có nhiều )",
+                "count": 1
+            },
+            {
+                "text": "D. are accountable",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "image": "img_30.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "personality conflict, schedules, resources",
+                "count": 1
+            },
+            {
+                "text": "B personal conflict,schedules, resources",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "image": "img_31.webp",
+        "best_answer": "F",
+        "comments": [
+            {
+                "text": "F",
+                "count": 19
+            },
+            {
+                "text": "F. challenging iss not the approach in Project Human Resources Management Lesson",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "image": "img_32.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "image": "img_33.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "image": "img_34.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "Là biểu đồ cột + đường cộng dồn (cumulative line), áp dụng nguyên lý 80/20.",
+                "count": 1
+            },
+            {
+                "text": "B. Pareto chart not be used in developing or communicating roles and responsibilities",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "image": "img_35.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 16
+            },
+            {
+                "text": "Lateral communication = Your peers",
+                "count": 1
+            },
+            {
+                "text": "\\ok",
+                "count": 1
+            },
+            {
+                "text": "upward = senior  dow = direct lateral = peers",
+                "count": 1
+            },
+            {
+                "text": "A. upward from senior management",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "image": "img_36.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 19
+            },
+            {
+                "text": "A.abc  interactive -> between two or more push -> send",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "image": "img_37.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "đầy đủ not only good achi",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "image": "img_38.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 17
+            },
+            {
+                "text": "tu tu",
+                "count": 1
+            },
+            {
+                "text": "positive = opportunity  negative = threat  -> true  positive =threat negative = opportunity  -> false",
+                "count": 1
+            },
+            {
+                "text": "B positive = opportunity negative = threat -> true positive =threat negative = opportunity -> false",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "image": "img_39.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 17
+            },
+            {
+                "text": "The statement is false because risk management is an ongoing and iterative process",
+                "count": 1
+            },
+            {
+                "text": "sai",
+                "count": 1
+            },
+            {
+                "text": "A. ko the la one-time process duoc",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "image": "img_40.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 16
+            },
+            {
+                "text": "mitigate hinh nhu la giam thieu (giai phap)",
+                "count": 1
+            },
+            {
+                "text": "accept - actively mitigate - reduce tranfer - another party",
+                "count": 1
+            },
+            {
+                "text": "mitigate hinh nhu la giam thieu (giai phap) -> reduce the probability",
+                "count": 1
+            },
+            {
+                "text": "accept a risk -> actively do not consider",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "image": "img_41.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "response to handle this risk",
+                "count": 1
+            },
+            {
+                "text": "B. đọc đáp án hề vãi",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "image": "img_42.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 17
+            },
+            {
+                "text": "stakeholder nhé  D",
+                "count": 1
+            },
+            {
+                "text": "nhà tài trợ",
+                "count": 1
+            },
+            {
+                "text": "có tiền việc ra",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "image": "img_43.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 17
+            },
+            {
+                "text": "b:  high power = Keep satisfied low power = Monitor",
+                "count": 1
+            },
+            {
+                "text": "High Power – High Interest → Manage closely (quản lý chặt chẽ, thường xuyên trao đổi, cập nhật). High Power – Low Interest → Keep satisfied (giữ hài lòng). Low Power – High Interest → Keep informed (cập nhật thường xuyên). Low Power – Low Interest → Monitor (theo dõi).",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "image": "img_44.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 18
+            },
+            {
+                "text": "A",
+                "count": 1
+            },
+            {
+                "text": "supported for the work -> Supportive  ensuring that the project is a success -> Leading",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "image": "img_45.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 19
+            },
+            {
+                "text": "câu này dùng phương pháp loại trừ được",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "image": "img_46.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 19
+            },
+            {
+                "text": "sờ cô bé",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "image": "img_47.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "a",
+                "count": 1
+            },
+            {
+                "text": "C",
+                "count": 13
+            },
+            {
+                "text": "C. 15.000 USD",
+                "count": 1
+            },
+            {
+                "text": "C 15k",
+                "count": 1
+            },
+            {
+                "text": "c  8.000 (Lạc quan) + 56.000 (4times Khả thi) + 26.000 (Bi quan) = 90.000 Chia cho 6 (tổng trọng số): 90.000 / 6 = 15.000",
+                "count": 1
+            },
+            {
+                "text": "O (Optimistic) = 8,000 M (Most likely) = 14,000 P (Pessimistic) = 26,000 PERT=(O + 4M + P)/6 = 15.000",
+                "count": 2
+            },
+            {
+                "text": "15k",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "image": "img_48.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 15
+            },
+            {
+                "text": "EV = 1,000 + 1,000 + 500 + 750 = 3,250 AC = 1,000 + 900 + 600 + 600 = 3,100  CV = 3,250 (EV) - 3,100 (AC) = 150 A",
+                "count": 2
+            },
+            {
+                "text": "150",
+                "count": 1
+            },
+            {
+                "text": "BAC = 4000 EV = 3250 AC = 3100  CV = 150 SV = 250  PV =3000",
+                "count": 1
+            },
+            {
+                "text": "PV = % kế hoạch × BACEV = % hoàn thành × BACCV = EV – ACSV = EV – PV",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "image": "img_49.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 18
+            },
+            {
+                "text": "â",
+                "count": 1
+            },
+            {
+                "text": "A. SPI = EV / PV",
+                "count": 1
+            }
+        ]
+    }
+]

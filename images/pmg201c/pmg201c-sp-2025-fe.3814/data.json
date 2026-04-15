@@ -1,0 +1,932 @@
+[
+    {
+        "id": 0,
+        "image": "img_0.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 16
+            },
+            {
+                "text": "project - true product - false",
+                "count": 2
+            },
+            {
+                "text": "3",
+                "count": 1
+            },
+            {
+                "text": "done",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "image": "img_1.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 19
+            },
+            {
+                "text": "d. It repeats itself every month",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "img_2.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "img_3.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 19
+            },
+            {
+                "text": "scope, cost, time",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "img_4.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C      PMP Study Group - Integration Management Flashcards by Mike Marshall   Study PMP Study Group - Integration Management flashcards from Mike Marshall's class online, or in Brainscape's iPhone or Android app. ✓ Learn faster with spaced repetition.     www.brainscape.com",
+                "count": 1
+            },
+            {
+                "text": "c",
+                "count": 19
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "img_5.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "img_6.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "image": "img_7.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 19
+            },
+            {
+                "text": "Đáp án là B. Complete integrated change control.  Giải thích:  Khi có yêu cầu thay đổi phạm vi (scope change request), quy trình đúng theo PMBOK là: Nhận yêu cầu bằng văn bản. Đánh giá tác động (impact) của thay đổi về phạm vi, chi phí, thời gian, chất lượng, rủi ro. Thực hiện quy trình integrated change control → đây là bước chính thức phê duyệt hoặc từ chối thay đổi. Nếu thay đổi được phê duyệt → Cập nhật các kế hoạch và tài liệu liên quan rồi triển khai.  C (đảm bảo stakeholder hiểu tác động) thường được làm trong quá trình đánh giá, nhưng bước tiếp theo sau khi đánh giá xong là B. A và D không phải bước chuẩn trong quy trình xử lý change request.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "image": "img_8.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 19
+            },
+            {
+                "text": "dê",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "image": "img_9.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 19
+            },
+            {
+                "text": "bê",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "image": "img_10.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "create historical -> lessons leanred",
+                "count": 1
+            },
+            {
+                "text": "bê",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "image": "img_11.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 19
+            },
+            {
+                "text": "cê",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "image": "img_12.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 19
+            },
+            {
+                "text": "informed akk team member assigned -> constrain",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "image": "img_13.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 16
+            },
+            {
+                "text": "true",
+                "count": 2
+            },
+            {
+                "text": "Đáp án là B. True  Giải thích:  WBS (Work Breakdown Structure) là phân rã toàn bộ phạm vi công việc của dự án thành các gói công việc nhỏ hơn. Quy tắc 100% Rule: WBS phải bao quát 100% phạm vi đã xác định; bất kỳ thứ gì không nằm trong WBS được xem là không thuộc phạm vi dự án. Vì vậy, WBS vừa là công cụ quản lý phạm vi, vừa giúp tránh scope creep (phạm vi phát sinh ngoài kế hoạch).",
+                "count": 1
+            },
+            {
+                "text": "bê",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "image": "img_14.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 19
+            },
+            {
+                "text": "wbs dictionary",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "image": "img_15.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "image": "img_16.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 19
+            },
+            {
+                "text": "Đáp án là C. They are completely defined in the project charter  Giải thích:  Milestones là các mốc quan trọng trong dự án, không có độ dài (duration = 0), thường đánh dấu hoàn thành một giai đoạn quan trọng hoặc một deliverable lớn. Chúng có thể được đề cập trong Project Charter nếu đó là các mốc quan trọng đã biết từ đầu, nhưng không phải tất cả milestones đều được định nghĩa hoàn toàn ở giai đoạn này. Thường, milestones sẽ được xác định chi tiết hơn trong project schedule sau khi lập kế hoạch.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "image": "img_17.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 18
+            },
+            {
+                "text": "Đáp án là C. Mandatory  Giải thích:  Mandatory dependency (còn gọi là hard logic) là thứ tự công việc bắt buộc phải theo vì bản chất công việc hoặc yêu cầu vật lý/kỹ thuật.    Ví dụ: Không thể đổ bê tông tầng 2 trước khi xây xong tầng 1.  Nhấn để mở rộng...   Discretionary dependency (soft logic): Thứ tự công việc dựa trên kinh nghiệm hoặc sở thích, có thể thay đổi. Internal dependency: Phụ thuộc giữa các hoạt động bên trong dự án. External dependency: Phụ thuộc vào yếu tố ngoài dự án (ví dụ: chờ giấy phép từ cơ quan nhà nước).",
+                "count": 1
+            },
+            {
+                "text": "thanks a @Quandung",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "image": "img_18.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 19
+            },
+            {
+                "text": "1. Ví dụ: Xây xong móng nhà (hoàn thành) → mới bắt đầu dựng tường (bắt đầu).  2. Ví dụ: Khi bắt đầu đổ bê tông móng (bắt đầu), có thể đồng thời bắt đầu san lấp đất ở khu vực khác (bắt đầu).  3. VD:  Task A: Chạy test hệ thống Task B: Viết tài liệu kiểm thử  Việc viết tài liệu kiểm thử có thể bắt đầu từ trước, khi bạn đã chạy một số test case, Nhưng tài liệu kiểm thử chỉ hoàn thành khi toàn bộ quá trình test hệ thống hoàn thành.  => Cả hai công việc đều phải kết thúc cùng lúc hoặc Task B kết thúc sau Task A một chút, chứ không thể kết thúc trước khi Task A xong.  4. Ví dụ: Ca làm việc của nhân viên bảo vệ cũ chỉ kết thúc khi ca của nhân viên mới bắt đầu.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "image": "img_19.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 19
+            },
+            {
+                "text": "early finish",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "image": "img_20.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 16
+            },
+            {
+                "text": "Đáp án chính xác là A. False  Phân tích chi tiết:  Critical path thực chất là chuỗi dài nhất (longest path) trong sơ đồ mạng dự án, xét về thời lượng tổng từ điểm bắt đầu đến điểm kết thúc. Nó xác định thời gian tối thiểu để hoàn thành dự án. Mọi hoạt động trên đường găng có Total Float = 0 (không được phép trễ) — bất kỳ sự chậm trễ nào sẽ trực tiếp kéo dài thời gian hoàn thành dự án. Vì sao câu này sai:  Câu hỏi nói \"critical path là đường ngắn nhất\" → Sai về định nghĩa (nó là đường dài nhất). Câu hỏi nói \"có thể bị trì hoãn mà không ảnh hưởng\" → Sai nốt, vì critical path không có chỗ trống để trì hoãn.",
+                "count": 1
+            },
+            {
+                "text": "false",
+                "count": 1
+            },
+            {
+                "text": "The critical path -> false",
+                "count": 1
+            },
+            {
+                "text": "lông gét mới đúng",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "image": "img_21.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 13
+            },
+            {
+                "text": "A",
+                "count": 1
+            },
+            {
+                "text": "Forward -> duration",
+                "count": 1
+            },
+            {
+                "text": "From ChatGPT: Vậy vì sao nhiều người nói A. True? Vì có thể họ hiểu rằng \"Forward Pass là một phần của quá trình xác định critical path và float\", nên họ chọn True.  Tuy nhiên, câu hỏi lại nói: \"The Forward Pass is used to determine the critical path and available float...\" → Cách dùng từ \"is used to determine\" ở đây làm cho câu trở nên sai về mặt kỹ thuật, vì: - Chỉ dùng Forward Pass thì KHÔNG đủ để xác định được Critical Path hoặc Float. - Cần Forward + Backward Pass.   Kết luận: Nếu xét theo kiến thức chuẩn PMI/PMP: Đáp án đúng là B. False  Nếu chấp nhận cách hiểu \"Forward Pass là một phần của quá trình xác định...\" thì A. True có thể được chấp nhận trong bối cảnh thiếu chính xác.",
+                "count": 1
+            },
+            {
+                "text": "Đáp án đúng là B. False  Giải thích:  Forward Pass được dùng để tính Early Start (ES) và Early Finish (EF) cho từng hoạt động, từ đó xác định ngày sớm nhất mà dự án có thể hoàn thành. Việc xác định critical path và total float cần cả Forward Pass (đi xuôi) và Backward Pass (đi ngược). Backward Pass mới là bước tính Late Start (LS) và Late Finish (LF), từ đó xác định float và chuỗi hoạt động zero float (critical path).",
+                "count": 1
+            },
+            {
+                "text": "B. False",
+                "count": 1
+            },
+            {
+                "text": "bê",
+                "count": 1
+            },
+            {
+                "text": "false",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "image": "img_22.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 19
+            },
+            {
+                "text": "Đáp án đúng là A. True  Giải thích:  Crashing là một kỹ thuật rút ngắn tiến độ bằng cách thêm nguồn lực (thêm nhân sự, làm thêm giờ, thuê ngoài…) vào các hoạt động trên đường găng (critical path) để giảm thời gian hoàn thành. Mục tiêu: Giảm thời gian → nhưng thường tăng chi phí. Khác với Fast Tracking (chạy song song các hoạt động vốn ban đầu làm tuần tự, không nhất thiết thêm nguồn lực).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "image": "img_23.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 18
+            },
+            {
+                "text": "a. costly to create",
+                "count": 1
+            },
+            {
+                "text": "Top-down: Nhanh, rẻ, ít chi tiết → nhưng kém chính xác.Bottom-up: Chậm, tốn effort, cần WBS → nhưng chính xác cao.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "image": "img_24.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 19
+            },
+            {
+                "text": "hít to ri",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "image": "img_25.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "image": "img_26.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 19
+            },
+            {
+                "text": "Đáp án đúng là B. False  Giải thích:  Project Budget = Cost Baseline + Management Reserve. Cost Baseline: kế hoạch chi phí đã được phê duyệt, thường thể hiện trên S-Curve, dùng để đo lường và kiểm soát tiến độ chi phí. Management Reserve: khoản dự phòng cho các rủi ro không lường trước (unknown-unknowns), không nằm trong Cost Baseline nhưng vẫn thuộc tổng ngân sách dự án.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "image": "img_27.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 17
+            },
+            {
+                "text": "<1 -> behind",
+                "count": 1
+            },
+            {
+                "text": "Đáp án đúng là C. ahead of schedule  Giải thích:  SPI = EV ÷ PV (Earned Value / Planned Value) SPI > 1 → dự án làm được nhiều hơn so với kế hoạch tại thời điểm đo → đi trước tiến độ. SPI = 1 → đúng tiến độ. SPI < 1 → chậm tiến độ.",
+                "count": 1
+            },
+            {
+                "text": "greater 1 ahead equal 1 on schedule smaller 1 behind",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "image": "img_28.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "tờ ru",
+                "count": 1
+            },
+            {
+                "text": "BBB",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "image": "img_29.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 14
+            },
+            {
+                "text": "increase -> true",
+                "count": 1
+            },
+            {
+                "text": "f",
+                "count": 2
+            },
+            {
+                "text": "reduce their value -> false",
+                "count": 1
+            },
+            {
+                "text": "a  improve mà reduce nên sai",
+                "count": 1
+            },
+            {
+                "text": "reduce -> false, increase -> true",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "image": "img_30.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 19
+            },
+            {
+                "text": "N",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "image": "img_31.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 9
+            },
+            {
+                "text": "B",
+                "count": 8
+            },
+            {
+                "text": "Giải thích:   Quality Control (QC) là hoạt động kiểm tra sản phẩm/dịch vụ để xác định lỗi và đảm bảo sản phẩm đáp ứng yêu cầu trước khi giao cho khách hàng.   Trong vai trò Project Manager, bạn phối hợp với đại diện bộ phận QC để lập test plan và test cases — đây là công cụ chính để kiểm tra và ngăn ngừa lỗi lọt đến khách hàng.  Mục tiêu là ngăn chặn defect thay vì chỉ phát hiện sau khi giao sản phẩm, và câu hỏi mô tả đúng chức năng này, nên đáp án là True.",
+                "count": 1
+            },
+            {
+                "text": "PM không thực thiện qc mà chỉ giám sát thôi => A",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "image": "img_32.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "image": "img_33.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 18
+            },
+            {
+                "text": "d. can(and should ) be mânged",
+                "count": 1
+            },
+            {
+                "text": "lạc quan",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "image": "img_34.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 19
+            },
+            {
+                "text": "professional debate -> healthy conflict",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "image": "img_35.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 10
+            },
+            {
+                "text": "A",
+                "count": 5
+            },
+            {
+                "text": "Compromising = cả hai cùng mất một chút Smoothing = mình chịu mất, để giữ yên chuyện. B",
+                "count": 1
+            },
+            {
+                "text": "B nhé. trong câu này mình cho người ta nhân lực bên mình và cho rằng (suppose) người ta sẽ hỗ trợ mình trong tương lai-> Nhượng bộ",
+                "count": 1
+            },
+            {
+                "text": "b , vì về sau là mong muốn chứ k có cam kết gì",
+                "count": 1
+            },
+            {
+                "text": "Đáp án đúng là B. Smoothing   Giải thích:  Smoothing (accommodating): Tập trung vào điểm đồng thuận, giảm nhẹ hoặc bỏ qua xung đột thực tế, thường hy sinh nhu cầu của mình để giữ quan hệ tốt. Ở đây bạn thật sự muốn nhân sự đó nhưng nhường cho PM kia và kỳ vọng họ sẽ ủng hộ bạn sau này → đúng với smoothing. Compromising: Hai bên nhường nhau một phần, tìm giải pháp ở giữa (win–lose một phần). Confronting (problem-solving): Giải quyết xung đột bằng cách phân tích sự thật, tìm nguyên nhân và giải pháp win–win. Forcing: Ép theo ý mình bằng quyền lực, thường win–lose rõ rệt.",
+                "count": 1
+            },
+            {
+                "text": "chỉ là mong muốn sẽ đc hỗ trợ trong tương lai, nhưng không có điều gì chắc chắn rằng anh ta sẽ quay trở lại -> smoothing",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "image": "img_36.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "Respon assigement matrix",
+                "count": 1
+            },
+            {
+                "text": "bê",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "image": "img_37.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "image": "img_38.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 18
+            },
+            {
+                "text": "Đáp án đúng là D. Which poor performance information should not be communicated  Giải thích:  Communications Management Plan quy định: Ai chịu trách nhiệm chuẩn bị thông tin (A) Thời gian và tần suất gửi thông tin (B) Đối tượng nhận thông tin (C)  Nhưng không bao giờ có nội dung che giấu thông tin kém hiệu quả (D) — vì theo nguyên tắc quản lý dự án và đạo đức nghề nghiệp (PMI Code of Ethics), mọi thông tin liên quan đến hiệu suất dự án cần được báo cáo minh bạch, đặc biệt là vấn đề tiêu cực để xử lý kịp thời.",
+                "count": 1
+            },
+            {
+                "text": "D. which poor performance information should not be communicated",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "image": "img_39.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 15
+            },
+            {
+                "text": "A",
+                "count": 3
+            },
+            {
+                "text": "Đáp án đúng là C. Your subordinates  Giải thích:  Lateral communication (giao tiếp ngang) là trao đổi thông tin giữa các cá nhân hoặc nhóm cùng cấp bậc trong tổ chức. Ví dụ: đồng nghiệp cùng phòng ban, các quản lý dự án khác, hoặc giữa các nhóm chức năng ngang hàng. Do đó: A – khách hàng → có thể là giao tiếp ngang nếu ở mức đối tác B – bạn bè → không thuộc khái niệm chính thống nhưng không sai về mặt \"cùng cấp\" D – đồng cấp (peers) → chính là lateral communication C – cấp dưới (subordinates) → không phải lateral, mà là downward communication (giao tiếp từ trên xuống).",
+                "count": 1
+            },
+            {
+                "text": "giao tiếp ngang hàng customer oke fen oke peers nhậu cùng oke sub thì không oke",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "image": "img_40.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 17
+            },
+            {
+                "text": "Dường như mình dịch được đề và hiểu được thông tin. Thì câu nào mang nghĩa tiêu cực thì cân nhắn nhiều phần True hơn false",
+                "count": 1
+            },
+            {
+                "text": "receiver thì nên gửi feed back còn sender thì phải sure là sent message clear",
+                "count": 1
+            },
+            {
+                "text": "ngược vc",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "image": "img_41.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 18
+            },
+            {
+                "text": "true",
+                "count": 1
+            },
+            {
+                "text": "F chứ nhỉ, đề c2 là F mà",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "image": "img_42.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 17
+            },
+            {
+                "text": "minimize - events",
+                "count": 1
+            },
+            {
+                "text": "minimize negative + increase positive",
+                "count": 1
+            },
+            {
+                "text": "a. increase ... positive",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "image": "img_43.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 19
+            },
+            {
+                "text": "đ",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "image": "img_44.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 15
+            },
+            {
+                "text": "Accept a risk (chấp nhận rủi ro) nghĩa là bạn không tìm cách loại bỏ hoặc giảm thiểu rủi ro đó, mà chấp nhận khả năng nó xảy ra. Tuy nhiên, bạn vẫn có thể lập kế hoạch dự phòng (contingency plan) để xử lý nếu rủi ro xảy ra.",
+                "count": 1
+            },
+            {
+                "text": "accept -> actively mitigate -> create",
+                "count": 1
+            },
+            {
+                "text": "accept - actively mitigate - reduce tranfer - another party",
+                "count": 1
+            },
+            {
+                "text": "D",
+                "count": 1
+            },
+            {
+                "text": "a. accept - actively mitigate - reduce tranfer - another party",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "image": "img_45.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "image": "img_46.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "helpful -> true",
+                "count": 1
+            },
+            {
+                "text": "chuẩn",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "image": "img_47.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "B",
+                "count": 1
+            },
+            {
+                "text": "high high là C chứ nhỉ :3",
+                "count": 1
+            },
+            {
+                "text": "C High power/ high interest: Manage Closely   High power/ low interest: Keep Satisfied   Low power/ high interest: Keep Informed   Low power/ low interest: Monitoring with Minimum Effort.",
+                "count": 1
+            },
+            {
+                "text": "low/low : a high/high: c low/high: b high/low: d",
+                "count": 1
+            },
+            {
+                "text": "C",
+                "count": 14
+            },
+            {
+                "text": "Low InterestHigh InterestHigh PowerKeep SatisfiedManage CloselyLow PowerMonitor Keep Informed",
+                "count": 1
+            },
+            {
+                "text": "high -> manage closely  low -> monitor",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "image": "img_48.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "image": "img_49.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 15
+            },
+            {
+                "text": "project manager -> true",
+                "count": 1
+            },
+            {
+                "text": "b",
+                "count": 1
+            },
+            {
+                "text": "false",
+                "count": 1
+            },
+            {
+                "text": "a project manager reponsible",
+                "count": 1
+            },
+            {
+                "text": "A vì PM ms là thằng chịu trát nhịm",
+                "count": 1
+            }
+        ]
+    }
+]

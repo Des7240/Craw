@@ -1,0 +1,1004 @@
+[
+    {
+        "id": 0,
+        "image": "img_0.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 17
+            },
+            {
+                "text": "aa",
+                "count": 1
+            },
+            {
+                "text": "a. fuctional, matrix- based, projectized and composite",
+                "count": 1
+            },
+            {
+                "text": "4 loại tổ chức: fun, ma, pro and com",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "image": "img_1.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 18
+            },
+            {
+                "text": "dd",
+                "count": 1
+            },
+            {
+                "text": "at most = giới hạn = a constraint",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "img_2.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 17
+            },
+            {
+                "text": "cải tiến quy trình (improvment) không bao giờ reduce value  -> False",
+                "count": 1
+            },
+            {
+                "text": "a reduce-> false",
+                "count": 1
+            },
+            {
+                "text": "how to reduce -> False how to increase -> True",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "img_3.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 19
+            },
+            {
+                "text": "who can suggest changes to the project",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "img_4.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "img_5.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 19
+            },
+            {
+                "text": "accountable persons -> B informed persons -> C",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "img_6.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 17
+            },
+            {
+                "text": "(n(n-1))/2",
+                "count": 1
+            },
+            {
+                "text": "28",
+                "count": 1
+            },
+            {
+                "text": "8 người -> 8x7/2 = 29",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "image": "img_7.webp",
+        "best_answer": "F",
+        "comments": [
+            {
+                "text": "f",
+                "count": 19
+            },
+            {
+                "text": "people that are not impacted by your project",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "image": "img_8.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 15
+            },
+            {
+                "text": "Forward mà có critical path thì là false",
+                "count": 1
+            },
+            {
+                "text": "false-> determine the critical & available float",
+                "count": 1
+            },
+            {
+                "text": "determine the total duration -> true determine the critical & available float -> false",
+                "count": 1
+            },
+            {
+                "text": "forward - critical : false cái còn lại thì true. backward thì ngược lại",
+                "count": 1
+            },
+            {
+                "text": "The Forward Pass ... determine the critical path -> false determine the toal duration -> true",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "image": "img_9.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 19
+            },
+            {
+                "text": "bb",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "image": "img_10.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 17
+            },
+            {
+                "text": "High Power – High Interest → Manage closely (quản lý chặt chẽ, thường xuyên trao đổi, cập nhật). High Power – Low Interest → Keep satisfied (giữ hài lòng). Low Power – High Interest → Keep informed (cập nhật thường xuyên). Low Power – Low Interest → Monitor (theo dõi).",
+                "count": 1
+            },
+            {
+                "text": "cê",
+                "count": 1
+            },
+            {
+                "text": "mẹo nhớ dễ (câu này có 4 dạng của power/interest grid) 1. high/high = closely (cao hết là do quản lý sát sao r) 2. high/low = informed (hứng thú cao nhưng hiệu suất thấp thì phải cung cấp thêm thông tin để cải thiện power của nó) 3. low/high = satisfied (k hứng thú lắm thì phải tập trung vào việc giữ lại hứng thú hơn) 4. low/low = monitor (thấp hết thì phải giám sát nhiều hơn về mọi mặt)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "image": "img_11.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 18
+            },
+            {
+                "text": "C. an uncertain , positive luôn đứng trước negative",
+                "count": 1
+            },
+            {
+                "text": "C. uncertain event, have a positive or negative",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "image": "img_12.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 19
+            },
+            {
+                "text": "mẹo: có (ngoặc đơn) thì chọn",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "image": "img_13.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 19
+            },
+            {
+                "text": "ngoại trừ những yêu cầu đặc biệt",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "image": "img_14.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 18
+            },
+            {
+                "text": "product scope is the work that need to be accomplished  to com plete a project",
+                "count": 1
+            },
+            {
+                "text": "thấy chữ complete = chọn D",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "image": "img_15.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 19
+            },
+            {
+                "text": "C. ass, iden, stake. hoặc dùng phương pháp loại trừ đc cho câu này nhé (ý nào lặp nhiều thì chọn, ass lặp 3 lần, iden lặp cũng 3 lần, stake cũng lặp 3 lần, những cái khác chỉ lặp 1 hoặc 2 thì k chọn và loại trừ luôn)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "image": "img_16.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 16
+            },
+            {
+                "text": "D. Project Charter (Hiến chương dự án/Điều lệ dự án) là một văn bản cấp cao (high-level) được ban hành trong giai đoạn Khởi tạo (Initiating). Mục đích cốt lõi của nó là chính thức ủy quyền cho dự án và cung cấp cho Giám đốc dự án (PM) quyền hạn sử dụng nguồn lực.",
+                "count": 1
+            },
+            {
+                "text": "the business case for the project",
+                "count": 1
+            },
+            {
+                "text": "D. có case của doanh nghiệp thì chọn",
+                "count": 1
+            },
+            {
+                "text": "D. trong project chaper thi se co bunsiness case for the project (requirement)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "image": "img_17.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 18
+            },
+            {
+                "text": "integrates schedule- false",
+                "count": 1
+            },
+            {
+                "text": "integrates quality- true",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "image": "img_18.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 17
+            },
+            {
+                "text": "giống C45 đề FE: he always support -> A he actively engaged -> Leading",
+                "count": 1
+            },
+            {
+                "text": "supportive",
+                "count": 1
+            },
+            {
+                "text": "supported for the worj -> Supportive                                                                                     engaged in ensuring that the project is a success -> Leading        A.Supportive",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "image": "img_19.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 19
+            },
+            {
+                "text": "Thoa hiệp A",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "image": "img_20.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 19
+            },
+            {
+                "text": "D. not recognize projecvt team responsibility",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "image": "img_21.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 19
+            },
+            {
+                "text": "team resources k chỉ có mỗi yếu tố con người mà còn bao gồm tiền bạc và nguồn nguyên liệu -> chọn B false",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "image": "img_22.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 17
+            },
+            {
+                "text": "undefined -> FALSE defined -> TRUE",
+                "count": 1
+            },
+            {
+                "text": "undefined chọn flase defined chọn true",
+                "count": 1
+            },
+            {
+                "text": "B. undefined start and finish -> false",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "image": "img_23.webp",
+        "best_answer": "F",
+        "comments": [
+            {
+                "text": "f",
+                "count": 16
+            },
+            {
+                "text": "Đáp án: F    Status report → (c): Báo cáo đang ở đâu (trạng thái hiện tại). Progress report → (b): Báo cáo đã làm được gì. Forecasting report → (a): Báo cáo dự đoán tương lai.",
+                "count": 1
+            },
+            {
+                "text": "r",
+                "count": 1
+            },
+            {
+                "text": "nếu (2), (3) là pull, push thì chọn A. a b c còn lại thì ngược lại hết thì chọn F. c b a",
+                "count": 1
+            },
+            {
+                "text": "Status report → (c): Báo cáo đang đứng đâu (trạng thái hiện tại). Progress report → (b): Báo cáo đã làm được gì. (what is in progress) Forecasting report → (a): Báo cáo dự đoán tương lai.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "image": "img_24.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 16
+            },
+            {
+                "text": "pay more = true overlapping = false",
+                "count": 1
+            },
+            {
+                "text": "A. pay more -> True B. overlapping -> False",
+                "count": 1
+            },
+            {
+                "text": "crashing: đổ thêm tài nguyên để làm nhanh hơn -> giảm schedule thì thêm tiền fast: làm task chồng lên nhau -> giảm schedule, tăng risk, không nhất thiết thêm tiền",
+                "count": 1
+            },
+            {
+                "text": "T",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "image": "img_25.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 19
+            },
+            {
+                "text": "T",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "image": "img_26.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 18
+            },
+            {
+                "text": "similar -> Analogous B",
+                "count": 1
+            },
+            {
+                "text": "B. looking at a similar project -> Analogous estimating",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "image": "img_27.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 16
+            },
+            {
+                "text": "to capture project failures so that you can avoid the resons for failure nexttime",
+                "count": 1
+            },
+            {
+                "text": "purpose of capturing -> to capture",
+                "count": 1
+            },
+            {
+                "text": "đề bài có capture thì đáp án cũng phải có capture = chọn B",
+                "count": 1
+            },
+            {
+                "text": "B. Caturing lesons learned -> to capture project failures",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "image": "img_28.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "image": "img_29.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 16
+            },
+            {
+                "text": "product -> False project -> True",
+                "count": 1
+            },
+            {
+                "text": "4 dạng:  1.project quality - project = true 2.product quality - project = false 3. product quality - good = true 4. project quality - good = false",
+                "count": 1
+            },
+            {
+                "text": "B. project quality to meet project objective -> True",
+                "count": 1
+            },
+            {
+                "text": "T",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "image": "img_30.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 18
+            },
+            {
+                "text": "control project = A. project manager",
+                "count": 1
+            },
+            {
+                "text": "A. control ò the project during planning -> PM",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "image": "img_31.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 19
+            },
+            {
+                "text": "T",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "image": "img_32.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 16
+            },
+            {
+                "text": "healthy conflict",
+                "count": 1
+            },
+            {
+                "text": "professional debate -> healthy conflict",
+                "count": 1
+            },
+            {
+                "text": "loại trừ 3 cái Un ra thì C khác biệt nhất thì chọn",
+                "count": 1
+            },
+            {
+                "text": "câu này dịch ra là chọn đc mà: 2 team phản đối nhau nhưng đã tham lại với nhau vào một cuộc tranh luận chuyên nghiệp -> tất nhiên là Healthy rồi (đừng lúc nào cũng mẹo)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "image": "img_33.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 16
+            },
+            {
+                "text": "enhancement to the scope -> scope management",
+                "count": 1
+            },
+            {
+                "text": "sờ cô bé",
+                "count": 1
+            },
+            {
+                "text": "trong đề bài nhắc nhiều về sờ cô bé và manager nên đáp án đúng là B. sờ cô bé management",
+                "count": 1
+            },
+            {
+                "text": "B. cái này là 1 thành viên có gợi ý một cái gì đó cải tiến so với scope ban đầu, tuy nhiên team phải tập trung vào những công việc đã đc nêu trong scope document ban đầu trước -> Đây gọi là quản lý phạm vi (Scope Management)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "image": "img_34.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 17
+            },
+            {
+                "text": "Giao tiếp với Cấp dưới (Subordinates) thuộc về nhóm Vertical (Dọc), hoàn toàn đối lập với Lateral (Ngang)",
+                "count": 1
+            },
+            {
+                "text": "Lateral communication :giao tiếp ngang hàng  Subordinates : cấp dưới",
+                "count": 1
+            },
+            {
+                "text": "Lateral communication :giao tiếp ngang hàng Subordinates : cấp dưới",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "image": "img_35.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 17
+            },
+            {
+                "text": "C  T_o (Optimistic): Thời gian lạc quan nhất (làm nhanh nhất có thể). T_p (Pessimistic): Thời gian bi quan nhất (làm chậm nhất có thể). T_m (Most Likely): Thời gian có khả năng xảy ra cao nhất.",
+                "count": 1
+            },
+            {
+                "text": "C. TP đứng đầu tiên r đến TM cuối cùng là TO",
+                "count": 1
+            },
+            {
+                "text": "C  T_o (Optimistic): Thời gian lạc quan nhất (làm nhanh nhất có thể). T_p (Pessimistic): Thời gian bi quan nhất (làm chậm nhất có thể). T_m (Most Likely): Thời gian có khả năng xảy ra cao nhất =>Tm sẽ là thằng có hệ số lớn nhất",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "image": "img_36.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "a",
+                "count": 4
+            },
+            {
+                "text": "B",
+                "count": 14
+            },
+            {
+                "text": "gpt ra A , còn gemini ra B =))",
+                "count": 1
+            },
+            {
+                "text": "câu này đ hiểu , có 3 trường hợp , nếu là qa -> sai vì 0 tạo test case  qc -> đúng vì có tạo test case  qc-> sai vì pm k tham gia làm ( ở đề sp25 spam a)  ( k biết chọn gì thật vì thấy cái nào cũng đúng",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "image": "img_37.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 17
+            },
+            {
+                "text": "SPI=EV/PV   SV=EV-PV",
+                "count": 1
+            },
+            {
+                "text": "C  SV (Schedule Variance - Chênh lệch tiến độ): Cho biết dự án đang nhanh hay chậm hơn so với kế hoạch. EV (Earned Value): Giá trị thực tế công việc đã làm được. PV (Planned Value): Giá trị công việc dự kiến phải làm được theo kế hoạch.",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "image": "img_38.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 17
+            },
+            {
+                "text": "you add steps to your plans to make cẻtain the opportunity is captured",
+                "count": 1
+            },
+            {
+                "text": "accept risk -> actively exploit risk -> add steps enhance risk -> create your plan",
+                "count": 1
+            },
+            {
+                "text": "exploit a risk (khai thac rui ro) -> add stpes to plans to make certain   accept risk (chấp nhận rủi ro) -> chủ động không cân nhắc đến risk nhưng mà sẽ xây dựng kế hoạch dự phòng (actively not consider but contigency plan)  enhance risk (tăng cười) ->  create plan to increase the probability",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "image": "img_39.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 16
+            },
+            {
+                "text": "effective communication at key interface points",
+                "count": 1
+            },
+            {
+                "text": "Effective",
+                "count": 1
+            },
+            {
+                "text": "C. để tích hợp dự án hiệu quả -> giao tiếp hiệu quả ở những interface quan trọng",
+                "count": 1
+            },
+            {
+                "text": "integration -> communication",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "image": "img_40.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 18
+            },
+            {
+                "text": "project budget -> Planning",
+                "count": 1
+            },
+            {
+                "text": "B. detailed buget -> giai đoạn planning",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "image": "img_41.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 19
+            },
+            {
+                "text": "phần quan trọng của quản lí scope pproject chính là phần đó bao gồm hay nằm ngoài scope -> TRUE",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "image": "img_42.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 19
+            },
+            {
+                "text": "PM làm PM nên tất nhiên ko bị conflict rồi",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "image": "img_43.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 17
+            },
+            {
+                "text": "help to justify project quality metrics",
+                "count": 1
+            },
+            {
+                "text": "D. riskier",
+                "count": 1
+            },
+            {
+                "text": "D. network diagram -> indentify riskier",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "image": "img_44.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 18
+            },
+            {
+                "text": "Hình vuông, mỗi cạnh bỏ ra 1000$ => BAC = 4*1000",
+                "count": 1
+            },
+            {
+                "text": "BAC  (Budget At Completion) Ngân sách dự kiến khi hoàn thành toàn bộ dự án. mỗi side có ngân sách dự kiến là 1000$ 4 side --> 4000$",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "image": "img_45.webp",
+        "best_answer": "F",
+        "comments": [
+            {
+                "text": "f",
+                "count": 17
+            },
+            {
+                "text": "The five standard Stakeholder Engagement Levels are: Unaware, Resistant, Neutral, Supportive, and Leading",
+                "count": 2
+            },
+            {
+                "text": "ff",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "image": "img_46.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 19
+            },
+            {
+                "text": "T",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "image": "img_47.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 19
+            },
+            {
+                "text": "T",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "image": "img_48.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 17
+            },
+            {
+                "text": "B",
+                "count": 1
+            },
+            {
+                "text": "A. true : ko nên nhé",
+                "count": 1
+            },
+            {
+                "text": "không rõ thì không nên add thêm",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "image": "img_49.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 16
+            },
+            {
+                "text": "management reserver is not tied to specific work packages it is for the entire project",
+                "count": 1
+            },
+            {
+                "text": "bb",
+                "count": 1
+            },
+            {
+                "text": "Management Reserve => not tied work package Contingency Reserve => tied work package",
+                "count": 1
+            },
+            {
+                "text": "B Management Reserve => not tied work package - > B Contingency Reserve => tied work package -> C",
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,744 @@
+[
+    {
+        "id": 0,
+        "image": "img_0.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 11
+            },
+            {
+                "text": "Dự án được định nghĩa là có tính duy nhất và tạm thời, có điểm bắt đầu và kết thúc xác định. True",
+                "count": 1
+            },
+            {
+                "text": "aa",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "image": "img_1.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 11
+            },
+            {
+                "text": "Đáp án chính xác là: A. Functional, Matrix-Based, Projectized and Composite Trong quản trị dự án (theo chuẩn PMBOK), có 4 nhóm cấu trúc tổ chức chính ảnh hưởng đến quyền hạn của Quản lý dự án (PM):  Loại cấu trúcĐặc điểm chínhFunctional (Chức năng)PM có rất ít quyền hạn. Nhân viên thuộc về các phòng ban chuyên môn (Marketing, Kế toán...).Matrix-Based (Ma trận)Sự kết hợp giữa chức năng và dự án. Chia làm 3 cấp nhỏ: Yếu (Weak), Cân bằng (Balanced), và Mạnh (Strong).Projectized (Thuần dự án)PM có toàn quyền quyết định. Đội ngũ làm việc toàn thời gian cho dự án.Composite (Hỗn hợp)Tổ chức sử dụng đồng thời nhiều loại cấu trúc trên cho các dự án khác nhau cùng một lúc.",
+                "count": 1
+            },
+            {
+                "text": "aa",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "img_2.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 11
+            },
+            {
+                "text": "Trách nhiệm chính của người quản lý dự án là bàn giao sản phẩm của dự án trong phạm vi các ràng buộc của dự án. Các hành động được thực hiện và những thay đổi được thực hiện vì lợi ích của một ràng buộc này có thể ảnh hưởng tiêu cực đến ràng buộc khác. Lựa chọn nào sau đây mô tả tốt nhất các ràng buộc chính của một dự án?  C",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "img_3.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 10
+            },
+            {
+                "text": "a: Khởi tạo",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "img_4.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 10
+            },
+            {
+                "text": "あ",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "img_5.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 11
+            },
+            {
+                "text": "D. The project manager creates the project charter, and the sponsor approves it. (Quản lý dự án tạo ra hiến chương dự án, và nhà tài trợ phê duyệt nó.)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "img_6.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 11
+            },
+            {
+                "text": "Một trong những bên liên quan của dự án liên hệ với quản lý dự án để thảo luận về một số phạm vi bổ sung mà họ muốn thêm vào dự án. Quản lý dự án yêu cầu cung cấp chi tiết bằng văn bản và sau đó thực hiện quy trình Kiểm soát phạm vi. Quản lý dự án nên làm gì tiếp theo khi việc đánh giá phạm vi yêu cầu đã hoàn tất?  B. Complete integrated change control (Hoàn thành quy trình kiểm soát thay đổi tích hợp).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "image": "img_7.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "image": "img_8.webp",
+        "best_answer": "E",
+        "comments": [
+            {
+                "text": "e",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "image": "img_9.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "image": "img_10.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 13
+            },
+            {
+                "text": "B",
+                "count": 1
+            },
+            {
+                "text": "a, không chỉ do product manager đâu",
+                "count": 1
+            },
+            {
+                "text": "Cấu trúc phân chia công việc (WBS) là một sự phân tách phân cấp hướng theo sản phẩm bàn giao của các công việc chỉ được thực hiện bởi Quản lý dự án. F",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "image": "img_11.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "image": "img_12.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "image": "img_13.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "image": "img_14.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 9
+            },
+            {
+                "text": "ef = es + duration ls =lf - duration",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "image": "img_15.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "image": "img_16.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 9
+            },
+            {
+                "text": "Crashing là cho thêm nhân lực vào làm còn Fast Tracking là thực hiện các task song song",
+                "count": 1
+            },
+            {
+                "text": "The Flast thì False",
+                "count": 1
+            },
+            {
+                "text": "to add --> False to re-plan --> True",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "image": "img_17.webp",
+        "best_answer": null,
+        "comments": [
+            {
+                "text": "ab",
+                "count": 10
+            },
+            {
+                "text": "Varriance có material Fixed thì có setup",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "image": "img_18.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "image": "img_19.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 9
+            },
+            {
+                "text": "manage reserve k được tính vào cost baseline đâu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "image": "img_20.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 10
+            },
+            {
+                "text": "earned quality là dùng budget, thời gian với tiến độ , k dùng quality",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "image": "img_21.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 9
+            },
+            {
+                "text": "c, phải là continuos imporvement",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "image": "img_22.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 9
+            },
+            {
+                "text": "a, phải là goods and services",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "image": "img_23.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "image": "img_24.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 10
+            },
+            {
+                "text": "control -> false, assurance -> true",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "image": "img_25.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "b",
+                "count": 5
+            },
+            {
+                "text": "A",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "image": "img_26.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "image": "img_27.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 11
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "image": "img_28.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "image": "img_29.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 11
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "image": "img_30.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "image": "img_31.webp",
+        "best_answer": "F",
+        "comments": [
+            {
+                "text": "f",
+                "count": 12
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "image": "img_32.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "d",
+                "count": 1
+            },
+            {
+                "text": "c",
+                "count": 10
+            },
+            {
+                "text": "Chọn C. Being kept updated about project progress.  Giải thích nhanh:   RACI:  R (Responsible): làm việc A (Accountable): chịu trách nhiệm cuối, quyết định C (Consulted): được hỏi ý kiến (chuyên môn) I (Informed): chỉ được cập nhật thông tin  => “Informed” = không tham gia làm hay quyết định, chỉ nhận thông tin tiến độ.",
+                "count": 1
+            },
+            {
+                "text": "informed --> C accountable --> B",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "image": "img_33.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 12
+            },
+            {
+                "text": "b, cần src thì contact toii",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "image": "img_34.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 12
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "image": "img_35.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 11
+            },
+            {
+                "text": "downward -> C, upward -> A",
+                "count": 1
+            },
+            {
+                "text": "Upward --> A Downward --> C",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "image": "img_36.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 9
+            },
+            {
+                "text": "b",
+                "count": 1
+            },
+            {
+                "text": "interactive là mấy ông tương tác với nhau, push là đẩy dữ liệu đi còn pull là kéo dữ liệu về",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "image": "img_37.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "image": "img_38.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 12
+            },
+            {
+                "text": "A: Minimize ... positive events.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "image": "img_39.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "b",
+                "count": 2
+            },
+            {
+                "text": "a",
+                "count": 11
+            },
+            {
+                "text": "The primary output from the identification of risks is the Risk Register, not the stakeholder register. The stakeholder register is the output of the \"Identify Stakeholders\" process.",
+                "count": 1
+            },
+            {
+                "text": "A(ykr)",
+                "count": 1
+            },
+            {
+                "text": "A identification of risk -> risk register",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "image": "img_40.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "image": "img_41.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "image": "img_42.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 11
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "image": "img_43.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "image": "img_44.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 10
+            },
+            {
+                "text": "always supported (luôn ủng hộ) -> supportive. did not... interested in it (ko quan tâm đến) -> neutral",
+                "count": 1
+            },
+            {
+                "text": "b - knew about...and also its ... --> Supportive - and was not ... --> Neutral - knew well about...and also its ... --> Leading",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "image": "img_45.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 11
+            },
+            {
+                "text": "A -> PM",
+                "count": 1
+            },
+            {
+                "text": "A Project Manager",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "image": "img_46.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 11
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "image": "img_47.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "d",
+                "count": 3
+            },
+            {
+                "text": "b",
+                "count": 11
+            },
+            {
+                "text": "B(ykr)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "image": "img_48.webp",
+        "best_answer": "F",
+        "comments": [
+            {
+                "text": "b",
+                "count": 1
+            },
+            {
+                "text": "f",
+                "count": 10
+            },
+            {
+                "text": "Dữ kiện:   4 sides → mỗi side = $1,000 Mỗi side = 1 ngày → hôm nay hết day 3 Làm tuần tự (side 1 → 2 → 3 → 4) Quan trọng: EV = giá trị công việc đã hoàn thành thực tế (không phải planned)  Đọc chart (ý chính):   Side 1 → Complete → $1000 Side 2 → Complete → $1000 Side 3 → 50% done → $500 Side 4 → 0% Tính EV:   EV = 1000 + 1000 + 500 = $2,500 Đáp án: B. EV = $2,500  Pattern:   EV = sum(% complete × budget từng task) Không quan tâm timeline, chỉ nhìn % done Có “half done” → chia đôi tiền ngay",
+                "count": 1
+            },
+            {
+                "text": "Phân biệt:    EV (Earned Value) = giá trị của khối lượng công việc thực tế đã hoàn thành PV (Planned Value) = giá trị của khối lượng công việc theo kế hoạch lẽ ra phải hoàn thành đến thời điểm đó  Từ bảng ở cuối ngày 3:    Side 1: Complete → EV = $1,000 Side 2: Complete → EV = $1,000 Side 3: 50% done → EV = $500 Side 4: 75% done → EV = $750  Cộng lại:   EV = 1000 + 1000 + 500 + 750 = $3,250   Vì vậy đáp án đúng cho EV là $3,250.   Còn $2,500 là con số hợp lý nếu bạn đang nghĩ theo PV:    theo kế hoạch đến cuối ngày 3, thường mới tính được khoảng 2.5 cạnh nên PV = $2,500  Nói ngắn gọn:    EV = $3,250 PV = $2,500",
+                "count": 1
+            },
+            {
+                "text": "EV = 1000 + 1000 + 50%*1000 +75%*1000 = 3250",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "image": "img_49.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 7
+            },
+            {
+                "text": "ev là earned value ( giá trị đạt được ) , trừ đi planned value ( giá trị dự kiến )",
+                "count": 1
+            },
+            {
+                "text": "sv = (e-p)v",
+                "count": 1
+            }
+        ]
+    }
+]

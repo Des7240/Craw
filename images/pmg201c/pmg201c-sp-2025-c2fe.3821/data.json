@@ -1,0 +1,1028 @@
+[
+    {
+        "id": 0,
+        "image": "img_0.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 19
+            },
+            {
+                "text": "2",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "image": "img_1.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 18
+            },
+            {
+                "text": "A  Tóm lại là PM không đủ sức quản lý nên phải chia làm các phòng ban chuyên môn riêng biệt (Functional). Matrix hay Projectized thì ông PM phải làm nhiều việc hơn nên không thích, Coordinator thì lạc đề.",
+                "count": 1
+            },
+            {
+                "text": "Giải thích:​ Functional Organization Cấu trúc tổ chức chia theo bộ phận chức năng (phòng ban), ví dụ: IT, kế toán, nhân sự… Mỗi phòng ban có quản lý chức năng (functional manager) là người nắm quyền quản lý nhân sự và phân bổ công việc. Project Manager nếu có, thường không có quyền hoặc có rất ít quyền đối với nhân sự. Các dự án chỉ là phần việc phụ ngoài công việc thường nhật của nhân viên. Dẫn đến tình huống: dự án ít được ưu tiên, nhân sự tập trung cho công việc của phòng ban hơn.  Tại sao không phải các lựa chọn khác? Matrix: PM có một phần hoặc toàn bộ quyền phân bổ nguồn lực (tùy loại Matrix yếu/cân bằng/mạnh). Không khớp vì ở đây quyền của PM gần như bằng 0. Projectized: PM có quyền tối đa và toàn bộ nhân sự tập trung vào dự án → trái ngược hoàn toàn tình huống đề. Coordinator: Không phải một dạng tổ chức chính thức, thường là vai trò trong môi trường weak matrix, nhưng đề bài mô tả rõ kiểu “ưu tiên công việc chức năng” nên vẫn nghiêng về functional.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "img_2.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 19
+            },
+            {
+                "text": "Đáp án: C  Câu này nói về các ràng buộc chính (major constraints) của một dự án và tình huống “thay đổi 1 yếu tố có thể ảnh hưởng tiêu cực đến yếu tố khác” → đây chính là khái niệm Project Constraints Triangle mở rộng. Phân tích các đáp án:​ A. Scope, number of resources, and cost Chỉ đề cập 3 yếu tố, nhưng “number of resources” không phải là 1 trong các bộ constraints chuẩn theo PMI, mà nó thuộc nhóm “resources” (nguồn lực) nhưng không phải thành phần cơ bản nhất.  B. Scope, cost, and schedule Đây là tam giác ràng buộc cổ điển (triple constraint). Tuy nhiên PMI hiện đại (PMBOK mới) đã mở rộng thành nhiều ràng buộc hơn.  C. Scope, schedule, cost, quality, risk, resources, and customer satisfaction  Đây là bộ ràng buộc mở rộng mà PMI đề cập: Scope (phạm vi) Schedule (tiến độ) Cost (chi phí) Quality (chất lượng) Risk (rủi ro) Resources (nguồn lực) Customer satisfaction (mức độ hài lòng khách hàng)  Đáp án này bao quát đầy đủ và đúng nhất theo PMBOK phiên bản mới.  D. Schedule, cost, and number of changes “Number of changes” không phải ràng buộc chính thức mà chỉ là yếu tố ảnh hưởng.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "img_3.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "img_4.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "img_5.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "sponsor approve rồi đưa cho PM",
+                "count": 1
+            },
+            {
+                "text": "Đáp án là B. True  Giải thích:​ Project Charter: Do project sponsor hoặc initiator phát hành. Chính thức phê duyệt sự tồn tại của dự án. Trao cho Project Manager quyền sử dụng nguồn lực của tổ chức để thực hiện các hoạt động dự án.  Đây là tài liệu nền tảng, không chỉ giúp dự án được “ra đời hợp pháp” mà còn xác định PM có quyền hạn và trách nhiệm gì.  Ghi nhớ: Không có Project Charter → không có dự án hợp lệ theo PMI.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "img_6.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 17
+            },
+            {
+                "text": "creep -> trì trệ -> tăng độ phức tạp của dự án mới đúng  D",
+                "count": 1
+            },
+            {
+                "text": "Scope creep là hiện tượng phạm vi dự án bị mở rộng ngoài kế hoạch ban đầu mà không có sự kiểm soát phù hợp nên nó chỉ làm tăng độ phức tạp=>D",
+                "count": 1
+            },
+            {
+                "text": "D. Decreases in project complexity",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "image": "img_7.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "image": "img_8.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "B Phải có Change management plan, ví dụ thay đổi liên quan đến những phần nào thì cần sự đồng ý của ai, chứ không phải cứ có thay đổi là gọi cả team ra bàn như trên, rất phiền.",
+                "count": 1
+            },
+            {
+                "text": "Đáp án đúng là B. Lack of a change management plan  Giải thích:​ Trong tình huống này, PM phát hiện cần thay đổi vật liệu đã mua → đây là một project change. Thay vì tuân theo quy trình quản lý thay đổi (Change Control Process), PM gọi họp ngay để bàn cách thực hiện → nghĩa là không có sẵn hoặc không tuân thủ Change Management Plan.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "image": "img_9.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 18
+            },
+            {
+                "text": "A Bài học quá khứ vẫn có ích trong tương lai.",
+                "count": 1
+            },
+            {
+                "text": "Đáp án đúng là A. Historical records for future projects  Giải thích:​ Lessons Learned Register: là tài liệu ghi lại những gì đã làm tốt, chưa tốt, và cách cải thiện trong suốt dự án. Mục đích chính: lưu trữ làm tài liệu tham khảo (historical records) cho các dự án tương lai → giúp tránh lặp lại sai lầm và tận dụng lại các thực hành tốt. Vì sao loại các đáp án khác?​ B. Planning record for the current project Không chính xác: “Lessons learned” được cập nhật trong quá trình dự án, nhưng giá trị lớn nhất là cho dự án sau, không phải chỉ để lập kế hoạch cho dự án hiện tại.  C. Informing the team about what the project manager has done Sai: Lessons learned không phải là báo cáo cá nhân của PM, mà là kết quả từ nhiều bên liên quan.  D. Informing the team about the project management plan Sai: PM Plan là tài liệu hướng dẫn thực hiện dự án, không phải lessons learned.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "image": "img_10.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 18
+            },
+            {
+                "text": "A  Project Scope Statement là tài liệu mô tả phạm vi dự án chi tiết trong đó có tiêu chí chấp nhận (acceptance criteria) để giúp quyết định khi nào sản phẩm hoàn thành, không có là Scope thành vô tận.",
+                "count": 1
+            },
+            {
+                "text": "Đáp án đúng là A. Acceptance criteria  Giải thích:​Project Scope Statement là tài liệu mô tả chi tiết phạm vi dự án, bao gồm:  Product scope description (mô tả sản phẩm) Deliverables (các sản phẩm bàn giao) Acceptance criteria (tiêu chí chấp nhận)  Project exclusions (những gì không thuộc phạm vi) Vì sao loại các đáp án khác?​ B. Milestones Nằm trong Project Schedule hoặc Milestone List, không phải nội dung chính của Scope Statement.  C. WBS WBS được tạo ra từ Scope Statement (trong quy trình Create WBS), không nằm trong Scope Statement.  D. WBS Dictionary Là tài liệu mô tả chi tiết từng phần tử WBS, cũng được tạo sau khi có Scope Statement.   Tóm lại:  Scope Statement = mô tả “phạm vi là gì” + “sản phẩm gì” + “tiêu chí chấp nhận ra sao”. WBS và WBS Dictionary là bước kế tiếp trong quản lý phạm vi, không phải là phần của Scope Statement.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "image": "img_11.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 18
+            },
+            {
+                "text": "D  Đã sponsor informed thì là constraint, không cãi.",
+                "count": 1
+            },
+            {
+                "text": "Đáp án đúng là D. A constraint  Giải thích:​ Constraint (ràng buộc) trong quản lý dự án là bất kỳ hạn chế nào áp đặt lên dự án, có thể liên quan đến: Thời gian (Schedule) Chi phí (Cost) Phạm vi (Scope) Chất lượng (Quality) Nguồn lực (Resources) Rủi ro (Risk)  Ở đây, sponsor quy định thành viên chỉ dành tối đa 50% thời gian cho dự án → đây là một resource constraint (ràng buộc về nguồn lực). Vì sao loại các đáp án khác?​ A. Poor planning → Không phải, vì đây không phải lỗi lập kế hoạch mà là một điều kiện bắt buộc từ sponsor. B. Wishful thinking → Không đúng, vì đây là yêu cầu cụ thể, không phải mơ ước hay kỳ vọng không thực tế. C. A project demand → “Demand” không phải thuật ngữ chính thức của PMI cho trường hợp này, và ý nghĩa cũng không khớp.  Mẹo nhớ:  Assumption (giả định) → Chúng ta tin là đúng nhưng chưa có xác nhận. Constraint (ràng buộc) → Điều kiện bắt buộc, có xác nhận rõ ràng.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "image": "img_12.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 12
+            },
+            {
+                "text": "c",
+                "count": 5
+            },
+            {
+                "text": "B - Câu 13 trong link này có phần giải thích đc tóm gọn như sau: “Team buy-in is a direct result of the WBS creation process”",
+                "count": 1
+            },
+            {
+                "text": "B  Bóc tách dự án (WBS) là quá trình giúp các thành viên hiểu được mình đang làm gì, trách nhiệm như nào, phải làm được gì => Giúp có được đồng thuận chung tức là Team-buy-in",
+                "count": 1
+            },
+            {
+                "text": "Đáp án đúng là B. Team buy-in  Giải thích:​ WBS (Work Breakdown Structure) là công cụ phân rã dự án thành các deliverables nhỏ hơn và dễ quản lý hơn. Quá trình tạo WBS thường thực hiện cùng với team → giúp mọi người: Hiểu rõ phạm vi dự án. Thống nhất cách phân chia công việc. Cảm thấy mình có tiếng nói và cam kết hơn với dự án (buy-in).   Điều này quan trọng hơn bản “hình vẽ WBS” vì quy trình làm WBS tạo ra sự gắn kết và hiểu biết chung, từ đó giúp triển khai hiệu quả hơn. Vì sao loại các đáp án khác?​ A. A Gantt chart → Gantt chart là công cụ lập tiến độ, không phải kết quả trực tiếp của việc làm WBS. C. Activities → Các hoạt động (activities) được xác định sau khi WBS hoàn tất, nhưng chúng chỉ là đầu ra kỹ thuật, không phải giá trị cốt lõi. D. A list of risks → Danh sách rủi ro đến từ nhiều nguồn, không chỉ từ WBS.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "image": "img_13.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 19
+            },
+            {
+                "text": "C  WBS là đúng nhưng mà phải thêm dictionary vì nó là chi tiết từng work package,",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "image": "img_14.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 19
+            },
+            {
+                "text": "C  Requirements specifications (đặc tả yêu cầu) dùng cho thiết kế sản phẩm, xác định nghiệp vụ, không liên quan đến duration của activity.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "image": "img_15.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "image": "img_16.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 16
+            },
+            {
+                "text": "C  Mandatory dependency (phụ thuộc bắt buộc), ở đây là must be refreshed.  + Internal dependency (Phụ thuộc nội bộ).  + Discretionary dependency (phụ thuộc theo quyết định) không bắt buộc. + External dependency (phụ thuộc bên ngoài) như nhà cung cấp, đối tác.",
+                "count": 1
+            },
+            {
+                "text": "must be -> bắt buộc -> mandatory",
+                "count": 1
+            },
+            {
+                "text": "C. Mandatory dependency (phụ thuộc bắt buộc)",
+                "count": 1
+            },
+            {
+                "text": "Đáp án đúng là C. Mandatory  Giải thích:​ Mandatory Dependency (ràng buộc bắt buộc) là những mối quan hệ không thể thay đổi do bản chất công việc hoặc yêu cầu kỹ thuật. Trong tình huống này: Hệ thống test phải được làm mới bằng dữ liệu test trước khi có thể bắt đầu kiểm thử → đây là yêu cầu bắt buộc về trình tự kỹ thuật (technical requirement). Vì sao loại các đáp án khác?​ A. Discretionary → Là ràng buộc “tùy chọn” hoặc theo kinh nghiệm/quy ước, có thể thay đổi nếu cần; ở đây thì không thể thay đổi. B. Internal → “Internal” chỉ nói đến nguồn gốc ràng buộc (bên trong tổ chức), nhưng đề hỏi loại dependency theo bản chất (bắt buộc hay tùy chọn). D. External → Ràng buộc từ bên ngoài tổ chức (ví dụ: phụ thuộc vào nhà cung cấp), không phải trường hợp này.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "image": "img_17.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 11
+            },
+            {
+                "text": "A",
+                "count": 4
+            },
+            {
+                "text": "b chứ nhỉ?",
+                "count": 1
+            },
+            {
+                "text": "Nếu \"Review\" bắt đầu mà điều kiện là \"Develop\" chưa kết thúc, tức là \"Review\" phải bắt đầu trước khi \"Develop\" kết thúc → đây là dạng:  Nhấn để mở rộng...    Finish-to-Start (FS) ngược chiều, có độ trễ âm (negative lag). Nhưng không phải là Start-to-Finish (SF). ==> B",
+                "count": 1
+            },
+            {
+                "text": "B  Dev là predecessor Review là successor  Review phải bắt đầu trước khi Dev xong, thì giống kiểu Start-to-Start hoặc Finish-to-Start hơn.",
+                "count": 1
+            },
+            {
+                "text": "Đáp án là B. False  Giải thích:​ Trong quản lý dự án, Start-to-Finish (SF) nghĩa là một công việc phải bắt đầu trước khi công việc khác kết thúc — nhưng đây là dạng quan hệ rất hiếm. Ở ví dụ này: \"Review online modules\" bắt đầu trước khi \"Develop online modules\" kết thúc → đây là Start-to-Start (SS) với một phần overlap (làm song song).  4 loại quan hệ công việc (Dependencies Relationships):  Finish-to-Start (FS) – Phổ biến nhất: Công việc B bắt đầu khi công việc A kết thúc. Finish-to-Finish (FF) – Cùng kết thúc: Công việc B kết thúc khi công việc A kết thúc. Start-to-Start (SS) – Cùng bắt đầu: Công việc B bắt đầu khi công việc A bắt đầu (hoặc sau đó một chút). Start-to-Finish (SF) – Rất hiếm: Công việc B kết thúc khi công việc A bắt đầu.",
+                "count": 1
+            },
+            {
+                "text": "ua tuong a chu",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "image": "img_18.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 15
+            },
+            {
+                "text": "A  Late Finish (LF) của một hoạt động được tính dựa trên thời điểm bắt đầu muộn nhất (Late Start - LS) của các công việc kế tiếp (successors).",
+                "count": 1
+            },
+            {
+                "text": "LF LS  EF ES",
+                "count": 1
+            },
+            {
+                "text": "A. Late finish => Late start",
+                "count": 1
+            },
+            {
+                "text": "EF ES LF LS",
+                "count": 1
+            },
+            {
+                "text": "LF LS EF ES",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "image": "img_19.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 19
+            },
+            {
+                "text": "Đáp án đúng là B. True  Giải thích:​ Critical Path = chuỗi các hoạt động có tổng thời gian dài nhất từ đầu đến cuối dự án. Đặc điểm: Total Float (TF) = 0 (không có thời gian trễ mà không ảnh hưởng đến ngày hoàn thành dự án). Nếu một hoạt động trên critical path bị trễ → toàn bộ dự án bị trễ theo   Mẹo nhớ:  Critical Path = Longest duration path + Zero total float. Đừng nhầm với “near-critical path” → có float rất nhỏ nhưng > 0.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "image": "img_20.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 19
+            },
+            {
+                "text": "Đáp án đúng là A. True  Giải thích:​ Backward Pass: là bước tính toán đi ngược từ điểm kết thúc dự án về điểm bắt đầu, nhằm: Xác định Late Finish (LF) và Late Start (LS) của từng hoạt động. Từ đó tính Total Float (TF) = LS − ES (hoặc LF − EF). Xác định các hoạt động có float = 0 → đây chính là critical path.   Quy trình CPM:  Forward Pass → tính Early Start (ES), Early Finish (EF). Backward Pass → tính Late Start (LS), Late Finish (LF) và float. Critical Path → các hoạt động có float = 0.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "image": "img_21.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 17
+            },
+            {
+                "text": "Đáp án đúng là B. False   Vì:   Fast tracking (làm song song) là thay đổi cách sắp xếp công việc: thực hiện một số hoạt động đồng thời (overlap) thay vì tuần tự, để rút ngắn thời gian dự án.  Ví dụ: Bắt đầu lập trình khi phần thiết kế mới xong 70% thay vì đợi thiết kế xong hẳn.  Crashing (tăng nguồn lực) mới là phương pháp thêm nguồn lực như nhân sự, làm thêm giờ… để giảm thời gian thực hiện.  Ví dụ: Thêm 2 lập trình viên hoặc cho team làm thêm giờ để hoàn thành nhanh hơn.   Câu trong đề mô tả crashing, chứ không phải fast tracking.   Hỏi ChatGPT",
+                "count": 1
+            },
+            {
+                "text": "B. False",
+                "count": 1
+            },
+            {
+                "text": "must be crashing",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "image": "img_22.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 17
+            },
+            {
+                "text": "A  Bottom-up chậm nhưng chắc, Top-down nhanh nhưng ít chính xác hơn (vì không đi sâu từng phần nhỏ)",
+                "count": 1
+            },
+            {
+                "text": "slow",
+                "count": 1
+            },
+            {
+                "text": "A. slow",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "image": "img_23.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "A",
+                "count": 1
+            },
+            {
+                "text": "C. from past kìa",
+                "count": 1
+            },
+            {
+                "text": "c",
+                "count": 17
+            },
+            {
+                "text": "lấy mẫu dự án tương tự hoặc trong quá khứ => analogus",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "image": "img_24.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "available, accuracy is needed = bottom up",
+                "count": 1
+            },
+            {
+                "text": "top-down nhanh nhưng ko chính xác, bottom-up chậm mà chắdc",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "image": "img_25.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 18
+            },
+            {
+                "text": "S curve = cost baseline x schedule",
+                "count": 1
+            },
+            {
+                "text": "Đáp án đúng là A. True  Giải thích:​ S-Curve trong quản lý dự án thường biểu diễn mối quan hệ giữa ngân sách (cost baseline) và tiến độ (schedule). Trục X: Thời gian dự án. Trục Y: Chi phí tích lũy (cumulative cost). Hình dạng cong chữ “S” xuất hiện vì: Giai đoạn đầu: chi tiêu chậm (lập kế hoạch, khởi động). Giai đoạn giữa: chi tiêu nhanh (thực thi). Giai đoạn cuối: chi tiêu giảm (hoàn tất, bàn giao).   Ngoài Planned S-Curve, còn có:  Actual S-Curve → chi phí thực tế theo thời gian. Earned Value S-Curve → giá trị công việc hoàn thành theo thời gian. So sánh các đường này giúp theo dõi tiến độ và chi phí so với kế hoạch.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "image": "img_26.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 14
+            },
+            {
+                "text": "a?",
+                "count": 1
+            },
+            {
+                "text": "A?  Earned Value Management (EVM) does integrate scope, schedule, and cost (or budget), not quality. EVM is a quantitative technique that uses monetary values (like Planned Value, Earned Value, Actual Cost) to assess project performance.",
+                "count": 1
+            },
+            {
+                "text": "A  EVM là buget, schedule và scope, không có quality",
+                "count": 1
+            },
+            {
+                "text": "EVM = budget + schedule + scope",
+                "count": 1
+            },
+            {
+                "text": "Earned Value Management (EVM) là kỹ thuật tích hợp giữa: Schedule (tiến độ) Budget (ngân sách) Scope (phạm vi – gián tiếp liên quan đến chất lượng deliverable)  EVM quy đổi tiến độ và khối lượng công việc hoàn thành thành giá trị tiền tệ để đánh giá tình trạng dự án.",
+                "count": 1
+            },
+            {
+                "text": "b",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "image": "img_27.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 18
+            },
+            {
+                "text": "C  Chất lượng thì cần cải thiện liên tục, chứ không phải One-time",
+                "count": 1
+            },
+            {
+                "text": "Đáp án đúng là C. One-time improvement  Giải thích:​ Project Management và Quality Management đều đề cao các nguyên tắc: Customer satisfaction → Sản phẩm/dịch vụ đáp ứng hoặc vượt mong đợi khách hàng. Prevention over inspection → Ngăn ngừa lỗi từ đầu quan trọng hơn là kiểm tra để phát hiện lỗi. Management responsibility → Lãnh đạo chịu trách nhiệm cuối cùng về chất lượng.  One-time improvement (cải tiến một lần)  → không phải nguyên tắc của chất lượng hay quản lý dự án. Thay vào đó, Quality Management nhấn mạnh Continuous Improvement (cải tiến liên tục) thông qua các phương pháp như PDCA cycle (Plan–Do–Check–Act) hoặc Kaizen.   Mẹo nhớ: Trong PMP, khi thấy cụm “one-time improvement” → thường là đáp án sai vì triết lý quản lý chất lượng luôn hướng đến liên tục cải tiến.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "image": "img_28.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 16
+            },
+            {
+                "text": "A  Project Quality khác Product Quality, để ý dễ nhầm.",
+                "count": 1
+            },
+            {
+                "text": "project = true product = false",
+                "count": 1
+            },
+            {
+                "text": "Product quality => False",
+                "count": 1
+            },
+            {
+                "text": "aa",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "image": "img_29.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "B  Number one component của Project Management Plan thường được xem là Scope Management Plan. (Nhưng cũng còn tùy dự án)",
+                "count": 1
+            },
+            {
+                "text": "Đáp án đúng là B. A subsidiary, or component of the project management plan  Giải thích:​ Process Improvement Plan là một subsidiary plan (kế hoạch con) nằm trong Project Management Plan. Nó mô tả cách cải tiến quy trình trong dự án — ví dụ: tối ưu hóa quy trình làm việc, giảm lãng phí, cải thiện hiệu suất nhóm. Không phải là “number one component” vì nó chỉ là một phần trong số nhiều kế hoạch con khác (scope, schedule, cost, quality, HR, communication, risk, procurement, stakeholder…).  Mẹo nhớ: Trong PMP, Project Management Plan giống như “bản kế hoạch tổng” , gồm nhiều “kế hoạch con” → Process Improvement Plan chỉ là một trong số đó.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "image": "img_30.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 17
+            },
+            {
+                "text": "Quality assurance -> processes needed",
+                "count": 1
+            },
+            {
+                "text": "control-> false, assurance-> true",
+                "count": 1
+            },
+            {
+                "text": "performing quality -> true",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "image": "img_31.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 13
+            },
+            {
+                "text": "B",
+                "count": 3
+            },
+            {
+                "text": "A -> QC control",
+                "count": 1
+            },
+            {
+                "text": "It’s false because the statement confuses quality control (QC) with quality assurance (QA) and misstates the project manager’s role.    Quality Control is about inspecting and testing the product to find defects after it’s built — it’s reactive. QC does not create the test plan; QC executes the tests. Quality Assurance is about preventing defects by defining processes, creating test plans, and ensuring standards are followed — it’s proactive.  In this question, the wording says the project manager will work with QC to create a test plan to prevent defects. That’s actually a QA activity, not QC, so it doesn’t match the definition of \"during quality control.\"   In short:    QC = detect defects (find issues in finished product) QA = prevent defects (plan and process)  This statement assigns a QA responsibility to QC, so it’s False.",
+                "count": 1
+            },
+            {
+                "text": "cấn câu này",
+                "count": 1
+            },
+            {
+                "text": "a hay b vậy mn",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "image": "img_32.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "term resources không chỉ có people mà còn money hoặc equipment --> False",
+                "count": 1
+            },
+            {
+                "text": "Tiền, trang thiết bị, nhân lực, thời gian đều là resource hết",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "image": "img_33.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 17
+            },
+            {
+                "text": "A  inevitable (Không thể tránh), ở đâu có con người ở đó có xung đột, ở đâu có lợi ích ở đó có chiến tranh.",
+                "count": 1
+            },
+            {
+                "text": "A. inevitable (Không thể tránh)",
+                "count": 1
+            },
+            {
+                "text": "I am inevitable",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "image": "img_34.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 17
+            },
+            {
+                "text": "C -> giống 2 dev cùng làm 1 file rồi đẩy lên repo và thế là hai thằng đấm nhau",
+                "count": 1
+            },
+            {
+                "text": "cê",
+                "count": 1
+            },
+            {
+                "text": "when two",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "image": "img_35.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 18
+            },
+            {
+                "text": "confronting, compromising, smoothing, forcing, avoiding",
+                "count": 1
+            },
+            {
+                "text": "C. confronting, compromising, smoothing, forcing , avoiding",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "image": "img_36.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 17
+            },
+            {
+                "text": "C  Inform (thông báo) thì là người cần được update suốt quá trình rồi.",
+                "count": 1
+            },
+            {
+                "text": "Đáp án đúng là C. Being kept updated about project progress.  Giải thích:​ RACI là viết tắt của: R = Responsible → Người thực hiện công việc. A = Accountable → Người chịu trách nhiệm cuối cùng và ra quyết định. C = Consult → Người được hỏi ý kiến, cung cấp chuyên môn. I = Inform → Người được thông báo để cập nhật tiến độ hoặc kết quả, không tham gia trực tiếp.  → Trong câu hỏi này, “those informed persons” chính là nhóm I → Họ chỉ cần được cập nhật về tiến độ hoặc thay đổi, không tham gia quyết định hay thực hiện.",
+                "count": 1
+            },
+            {
+                "text": "cê",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "image": "img_37.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 18
+            },
+            {
+                "text": "A truyền thông tốt tạo cầu nối cho các bên liên quan -> clear dự án  -> đảm bảo thành công của dự án -> nâng tầm cuộc chơi",
+                "count": 1
+            },
+            {
+                "text": "True",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "image": "img_38.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 17
+            },
+            {
+                "text": "Pareto chart là biểu đồ phân tích nguyên nhân và tần suất không dùng để truyền đạt vai trò và trách nhiệm.",
+                "count": 1
+            },
+            {
+                "text": "pareto -> 80/20 là chất lượng không phải phân chia công việc",
+                "count": 1
+            },
+            {
+                "text": "Đáp án đúng là B. Pareto chart  Giải thích:​ WBS → Giúp chia nhỏ công việc và xác định ai làm gì. Responsibility Assignment Matrix (RAM) → Gán trách nhiệm cho từng vai trò (ví dụ: RACI). Organization chart → Thể hiện cấu trúc tổ chức và mối quan hệ báo cáo. → Tất cả 3 cái trên đều hỗ trợ phát triển hoặc truyền đạt roles and responsibilities. Pareto chart → Là công cụ quản lý chất lượng (dựa trên nguyên tắc 80/20) để xác định nguyên nhân quan trọng nhất của vấn đề → không liên quan đến việc phân công hoặc truyền đạt vai trò.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "image": "img_39.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 17
+            },
+            {
+                "text": "Đáp án đúng là C. Your direct reports  Giải thích nhanh:​ Downward communication → Luồng thông tin từ cấp trên xuống cấp dưới. Ví dụ: từ Project Manager xuống team members. Upward communication → Từ cấp dưới lên cấp trên. Horizontal (lateral) communication → Giữa các đồng cấp (peers).",
+                "count": 1
+            },
+            {
+                "text": "A là upward,D là lateral,B dek quan tâm->C",
+                "count": 1
+            },
+            {
+                "text": "downward = reports upward = senior... lateral = peers",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "image": "img_40.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 19
+            },
+            {
+                "text": "push pull A còn lại F =))))))))))",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "image": "img_41.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 17
+            },
+            {
+                "text": "B  Không phải lúc nào cũng là tin tốt, risk là điều không thể tránh chỉ có thể giảm thiểu.",
+                "count": 1
+            },
+            {
+                "text": "Đáp án là B. False  Lý do:  Performance reporting không chỉ để khoe thành tích tốt  mà mục tiêu chính là cung cấp thông tin tổng thể cho stakeholders về tiến độ, chi phí, phạm vi, rủi ro và vấn đề — bao gồm cả điểm tốt lẫn điểm cần cải thiện. Việc báo cáo có thể hàng tuần, hàng tháng hoặc theo giai đoạn tùy theo kế hoạch giao tiếp (communication plan). Nói cách khác: Performance reporting = \"toàn cảnh thật\" chứ không phải \"chọn lọc tin vui\".",
+                "count": 1
+            },
+            {
+                "text": "Good achievements -. False",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "image": "img_42.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 18
+            },
+            {
+                "text": "A  Positive risk = Opportunity (Cơ hội), tức là những sự kiện có thể mang lại lợi ích. Negative risk = Threat (Mối đe dọa), tức là những sự kiện có thể gây hại hoặc ảnh hưởng tiêu cực.",
+                "count": 1
+            },
+            {
+                "text": "a positive = opportunity negative= threat",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "image": "img_43.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 19
+            },
+            {
+                "text": "D => EVM =  budget, schedule, scope không đánh giá rủi ro",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "image": "img_44.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 16
+            },
+            {
+                "text": "mitigate D  accept A",
+                "count": 1
+            },
+            {
+                "text": "mitigate ~ reduce accept -> do not consider",
+                "count": 1
+            },
+            {
+                "text": "Đáp án là D. You create your plan to reduce the probability and/or the impact of the risk.  Giải thích:  Mitigate (giảm thiểu) rủi ro nghĩa là chủ động điều chỉnh kế hoạch hoặc hành động để giảm khả năng xảy ra (probability) hoặc giảm tác động (impact) nếu rủi ro xảy ra. Nó khác với: A (Accept): Chấp nhận rủi ro, chỉ lập kế hoạch dự phòng. B (Avoid): Thay đổi kế hoạch để loại bỏ hẳn rủi ro. C (Transfer): Chuyển rủi ro cho bên khác chịu (ví dụ: mua bảo hiểm).",
+                "count": 1
+            },
+            {
+                "text": "mitigate = D transfer = C còn lại = a",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "image": "img_45.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 18
+            },
+            {
+                "text": "not seem to belong => make a note to update",
+                "count": 1
+            },
+            {
+                "text": "D Câu chuyện: 1 ông nghĩ ra 1 risk chưa được log  A Chửi ổng (loại) B Kệ ổng (không) C Cảm ơn nhưng dont give a fck (không được) D Ghi chép cẩn thận",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "image": "img_46.webp",
+        "best_answer": "F",
+        "comments": [
+            {
+                "text": "F",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "image": "img_47.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 16
+            },
+            {
+                "text": "low/low : a  high/high: c  low/high: b high/low: d",
+                "count": 1
+            },
+            {
+                "text": "A  + A Monitor (Theo dõi) dành cho đối tượng không quyền cũng chẳng care thì xem thôi là được. + B Keep satisfied tổng tài bá đạo nhưng lạnh lùng (không care) thì phải chiều + C Manage closely vừa hứng thú vừa quyền lực cao thì cần chăm sóc cẩn thận + D Keep informed, không quyền nhưng quan tâm thì cứ inform thường xuyên.",
+                "count": 1
+            },
+            {
+                "text": "Low PowerHigh PowerLow InterestMonitorKeep SatisfiedHigh InterestKeep InformedManage Closely",
+                "count": 1
+            },
+            {
+                "text": "cho ae cái bảng tà đạo",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "image": "img_48.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 17
+            },
+            {
+                "text": "D  +Biết rõ, nhiệt tình, chủ động lãnh đạo = Leading + Hiểu, ủng hộ nhưng không chủ động lãnh đạo = Supportive + Biết nhưng không có hứng thú = Neutral + Vô tri = Unware",
+                "count": 1
+            },
+            {
+                "text": "Leading: knew well about, actively engaged in ensure project is a success  Supportive: knew about, always supported",
+                "count": 1
+            },
+            {
+                "text": "actively -> leading",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "image": "img_49.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 17
+            },
+            {
+                "text": "A  Ngược lại rồi, PM là người làm hài lòng các mong đợi của sponsors.",
+                "count": 1
+            },
+            {
+                "text": "A PM = B",
+                "count": 1
+            },
+            {
+                "text": "The project spnosor -> false",
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,672 @@
+[
+    {
+        "id": 0,
+        "image": "img_0.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "image": "img_1.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 16
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "img_2.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 16
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "img_3.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 15
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "img_4.webp",
+        "best_answer": "E",
+        "comments": [
+            {
+                "text": "E",
+                "count": 15
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "img_5.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 13
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "img_6.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 13
+            },
+            {
+                "text": "thằng nào trả tiền thì đó đó",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "image": "img_7.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 13
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "image": "img_8.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 13
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "image": "img_9.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 14
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "image": "img_10.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 14
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "image": "img_11.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 11
+            },
+            {
+                "text": "A",
+                "count": 1
+            },
+            {
+                "text": "v",
+                "count": 1
+            },
+            {
+                "text": "by the prj team -> true just by the PM -> false",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "image": "img_12.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 11
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "image": "img_13.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 11
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "image": "img_14.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "B",
+                "count": 1
+            },
+            {
+                "text": "A",
+                "count": 13
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "image": "img_15.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 13
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "image": "img_16.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 14
+            },
+            {
+                "text": "B",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "image": "img_17.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 11
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "image": "img_18.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "image": "img_19.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 12
+            },
+            {
+                "text": "C",
+                "count": 2
+            },
+            {
+                "text": "(Nhược) Disavatage của Top-down: - Less accurate : kém chính xác - Requires considerable experience to do well:( bởi  ví quá phụ thược vào chuyên gia ) - Does not take into account the differences between projects: ( thiếu chi tiết )  (Ưu) Advantage của Top-down: - Quick/Fast : nhanh chóng tiết kieemh thời gian - Less costly to create : chi phí thấp hơn - Activities do not need to be identified : không cần xác định ngay   -->A. Slow (là sai: vì Top-down là phương pháp nhanh chóng- quick)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "image": "img_20.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 11
+            },
+            {
+                "text": "mângement -> B",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "image": "img_21.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "B",
+                "count": 3
+            },
+            {
+                "text": "A",
+                "count": 11
+            },
+            {
+                "text": "a, earned value là budget, schedule với scope",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "image": "img_22.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "image": "img_23.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "image": "img_24.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "image": "img_25.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "image": "img_26.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 12
+            },
+            {
+                "text": "performing quality control thì ko có eliminate causes",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "image": "img_27.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 11
+            },
+            {
+                "text": "Influence không make decisions A",
+                "count": 1
+            },
+            {
+                "text": "Authority",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "image": "img_28.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "image": "img_29.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "image": "img_30.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "image": "img_31.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "image": "img_32.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 10
+            },
+            {
+                "text": "informed --> C accountable --> B",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "image": "img_33.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 11
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "image": "img_34.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "image": "img_35.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 9
+            },
+            {
+                "text": "Upward --> A Downward --> C",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "image": "img_36.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 12
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "image": "img_37.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "image": "img_38.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "image": "img_39.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "image": "img_40.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "D",
+                "count": 1
+            },
+            {
+                "text": "B",
+                "count": 11
+            },
+            {
+                "text": "- exploit a risk => chọn B - mitigate a risk => chọn D",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "image": "img_41.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "image": "img_42.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 8
+            },
+            {
+                "text": "who will not be => false who wil use => true",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "image": "img_43.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 9
+            },
+            {
+                "text": "high interest/low power -> keep informed high interest/high power -> manage closely",
+                "count": 2
+            },
+            {
+                "text": "High power / High interest → Manage closely High power / Low interest → Keep satisfied Low power / High interest → Keep informed  trường hợp trong đề Low power / Low interest → Monitor (theo dõi thôi)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "image": "img_44.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 9
+            },
+            {
+                "text": "- knew about...and also its ... --> Supportive  - and was not ... --> Neutral  - knew well about...and also its ... --> Leading",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "image": "img_45.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "image": "img_46.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 11
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "image": "img_47.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "A",
+                "count": 1
+            },
+            {
+                "text": "C",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "image": "img_48.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "C",
+                "count": 1
+            },
+            {
+                "text": "B. EV = 1000+1000+500 = 2500 AC= 1000+1200+600 = 2800. CV=EV-AC = -300.",
+                "count": 1
+            },
+            {
+                "text": "b",
+                "count": 5
+            },
+            {
+                "text": "cv = ev -ac",
+                "count": 1
+            },
+            {
+                "text": "cost variance = earned value - actual cost",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "image": "img_49.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 6
+            },
+            {
+                "text": "cpi=ev/ac",
+                "count": 1
+            },
+            {
+                "text": "cpi = ev/ac",
+                "count": 1
+            },
+            {
+                "text": "cost performance index = earned value / actual cost",
+                "count": 1
+            }
+        ]
+    }
+]

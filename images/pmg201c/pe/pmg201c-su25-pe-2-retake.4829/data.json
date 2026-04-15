@@ -1,0 +1,19 @@
+[
+    {
+        "id": 0,
+        "image": "img_0.webp",
+        "best_answer": null,
+        "comments": []
+    },
+    {
+        "id": 1,
+        "image": "img_1.webp",
+        "best_answer": null,
+        "comments": [
+            {
+                "text": "quả đề đọc mới đầu nhìn choáng thật",
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,159 +1,55 @@
 {
-    "prn222": {
+    "pmg201c": {
         "pe": {
-            "prn222-pe-sp-2025-block-5.3838": {
-                "title": "prn222-pe-sp-2025-block-5.3838",
-                "path": "images/prn222/pe/prn222-pe-sp-2025-block-5.3838"
+            "pmg201c-fa25-pe1.5629": {
+                "title": "pmg201c-fa25-pe1.5629",
+                "path": "images/pmg201c/pe/pmg201c-fa25-pe1.5629"
             },
-            "prn222-pe-sp-2025.3477": {
-                "title": "prn222-pe-sp-2025.3477",
-                "path": "images/prn222/pe/prn222-pe-sp-2025.3477"
+            "pmg201c-fa25-pe2.5708": {
+                "title": "pmg201c-fa25-pe2.5708",
+                "path": "images/pmg201c/pe/pmg201c-fa25-pe2.5708"
             },
-            "prn222-pe-su-2025-block-1.3979": {
-                "title": "prn222-pe-su-2025-block-1.3979",
-                "path": "images/prn222/pe/prn222-pe-su-2025-block-1.3979"
+            "pmg201c-sp-2025-pe2.3868": {
+                "title": "pmg201c-sp-2025-pe2.3868",
+                "path": "images/pmg201c/pe/pmg201c-sp-2025-pe2.3868"
             },
-            "prn222-pe-su-2025-block-5.4890": {
-                "title": "prn222-pe-su-2025-block-5.4890",
-                "path": "images/prn222/pe/prn222-pe-su-2025-block-5.4890"
-            }
-        },
-        "fe": {
-            "prn222-fe-bl3w-fall25.5760": {
-                "title": "prn222-fe-bl3w-fall25.5760",
-                "path": "images/prn222/fe/prn222-fe-bl3w-fall25.5760"
+            "pmg201c-su25-pe-1.4756": {
+                "title": "pmg201c-su25-pe-1.4756",
+                "path": "images/pmg201c/pe/pmg201c-su25-pe-1.4756"
             },
-            "prn222-su25-block5-1.4909": {
-                "title": "prn222-su25-block5-1.4909",
-                "path": "images/prn222/fe/prn222-su25-block5-1.4909"
-            },
-            "prn222-su25-fe.4529": {
-                "title": "prn222-su25-fe.4529",
-                "path": "images/prn222/fe/prn222-su25-fe.4529"
-            },
-            "prn222_sp25_fe_130672.3654": {
-                "title": "prn222_sp25_fe_130672.3654",
-                "path": "images/prn222/fe/prn222_sp25_fe_130672.3654"
+            "pmg201c-su25-pe-2-retake.4829": {
+                "title": "pmg201c-su25-pe-2-retake.4829",
+                "path": "images/pmg201c/pe/pmg201c-su25-pe-2-retake.4829"
             }
         },
         "other": {
-            "prn222-fe-bl3w-fall25.5760": {
-                "title": "prn222-fe-bl3w-fall25.5760",
-                "path": "images/prn222/prn222-fe-bl3w-fall25.5760"
+            "#post-15450": {
+                "title": "#post-15450",
+                "path": "images/pmg201c/other/#post-15450"
             },
-            "prn222-su25-block5-1.4909": {
-                "title": "prn222-su25-block5-1.4909",
-                "path": "images/prn222/prn222-su25-block5-1.4909"
+            "pmg201c-fa25-re.5711": {
+                "title": "pmg201c-fa25-re.5711",
+                "path": "images/pmg201c/pmg201c-fa25-re.5711"
             },
-            "prn222-su25-fe.4529": {
-                "title": "prn222-su25-fe.4529",
-                "path": "images/prn222/prn222-su25-fe.4529"
-            }
-        }
-    },
-    "pru212": {
-        "other": {
-            "pru212-fa-2024-fe.3005": {
-                "title": "pru212-fa-2024-fe.3005",
-                "path": "images/pru212/pru212-fa-2024-fe.3005"
+            "pmg201c-sp-2025-c2fe.3821": {
+                "title": "pmg201c-sp-2025-c2fe.3821",
+                "path": "images/pmg201c/pmg201c-sp-2025-c2fe.3821"
             },
-            "pru212-sp-2024-fe.1597": {
-                "title": "pru212-sp-2024-fe.1597",
-                "path": "images/pru212/pru212-sp-2024-fe.1597"
+            "pmg201c-sp-2025-fe.3814": {
+                "title": "pmg201c-sp-2025-fe.3814",
+                "path": "images/pmg201c/pmg201c-sp-2025-fe.3814"
             },
-            "pru212-sp-2025-fe.3546": {
-                "title": "pru212-sp-2025-fe.3546",
-                "path": "images/pru212/pru212-sp-2025-fe.3546"
+            "pmg201c-sp-2025-re.3866": {
+                "title": "pmg201c-sp-2025-re.3866",
+                "path": "images/pmg201c/pmg201c-sp-2025-re.3866"
             },
-            "pru212-sp-2025-re.3689": {
-                "title": "pru212-sp-2025-re.3689",
-                "path": "images/pru212/pru212-sp-2025-re.3689"
+            "pmg201c-su25-fe.4759": {
+                "title": "pmg201c-su25-fe.4759",
+                "path": "images/pmg201c/pmg201c-su25-fe.4759"
             },
-            "pru212-su-2024-fe.2344": {
-                "title": "pru212-su-2024-fe.2344",
-                "path": "images/pru212/pru212-su-2024-fe.2344"
-            },
-            "pru212-su25-fe.4214": {
-                "title": "pru212-su25-fe.4214",
-                "path": "images/pru212/pru212-su25-fe.4214"
-            }
-        }
-    },
-    "swd392": {
-        "pe": {
-            "swd392-pe-fa25.5339": {
-                "title": "swd392-pe-fa25.5339",
-                "path": "images/swd392/pe/swd392-pe-fa25.5339"
-            },
-            "swd392-su25-pe-1-re.4603": {
-                "title": "swd392-su25-pe-1-re.4603",
-                "path": "images/swd392/pe/swd392-su25-pe-1-re.4603"
-            },
-            "swd392-su25-pe-re.4604": {
-                "title": "swd392-su25-pe-re.4604",
-                "path": "images/swd392/pe/swd392-su25-pe-re.4604"
-            },
-            "swd392_su25_pe_1.4135": {
-                "title": "swd392_su25_pe_1.4135",
-                "path": "images/swd392/pe/swd392_su25_pe_1.4135"
-            },
-            "swd392_su25_pe_2.4138": {
-                "title": "swd392_su25_pe_2.4138",
-                "path": "images/swd392/pe/swd392_su25_pe_2.4138"
-            }
-        },
-        "fe": {
-            "swd392-fa-2024-block-5-fe.3238": {
-                "title": "swd392-fa-2024-block-5-fe.3238",
-                "path": "images/swd392/fe/swd392-fa-2024-block-5-fe.3238"
-            },
-            "swd392-fa-2024-fe.3001": {
-                "title": "swd392-fa-2024-fe.3001",
-                "path": "images/swd392/fe/swd392-fa-2024-fe.3001"
-            },
-            "swd392-fa25-feb5.5759": {
-                "title": "swd392-fa25-feb5.5759",
-                "path": "images/swd392/fe/swd392-fa25-feb5.5759"
-            },
-            "swd392-fa25-final-exam.5334": {
-                "title": "swd392-fa25-final-exam.5334",
-                "path": "images/swd392/fe/swd392-fa25-final-exam.5334"
-            },
-            "swd392-sp-2024-fe.1619": {
-                "title": "swd392-sp-2024-fe.1619",
-                "path": "images/swd392/fe/swd392-sp-2024-fe.1619"
-            },
-            "swd392-sp-2024-re.1692": {
-                "title": "swd392-sp-2024-re.1692",
-                "path": "images/swd392/fe/swd392-sp-2024-re.1692"
-            },
-            "swd392-sp-2025-fe.3635": {
-                "title": "swd392-sp-2025-fe.3635",
-                "path": "images/swd392/fe/swd392-sp-2025-fe.3635"
-            },
-            "swd392-su-2024-fe.2316": {
-                "title": "swd392-su-2024-fe.2316",
-                "path": "images/swd392/fe/swd392-su-2024-fe.2316"
-            },
-            "swd392-su-2024-re.2471": {
-                "title": "swd392-su-2024-re.2471",
-                "path": "images/swd392/fe/swd392-su-2024-re.2471"
-            },
-            "swd392-su25-re.4610": {
-                "title": "swd392-su25-re.4610",
-                "path": "images/swd392/fe/swd392-su25-re.4610"
-            },
-            "swd392_su25_final-exam.4148": {
-                "title": "swd392_su25_final-exam.4148",
-                "path": "images/swd392/fe/swd392_su25_final-exam.4148"
-            }
-        }
-    },
-    "unknown": {
-        "other": {
-            "prn222_sp25_fe_130672.3654": {
-                "title": "prn222_sp25_fe_130672.3654",
-                "path": "images/unknown/prn222_sp25_fe_130672.3654"
+            "pmg201c-su25-re.4834": {
+                "title": "pmg201c-su25-re.4834",
+                "path": "images/pmg201c/pmg201c-su25-re.4834"
             }
         }
     }

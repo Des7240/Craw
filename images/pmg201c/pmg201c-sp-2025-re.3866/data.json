@@ -1,0 +1,1108 @@
+[
+    {
+        "id": 0,
+        "image": "img_0.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 17
+            },
+            {
+                "text": "B + market demand là thị trường cần 1 sản phẩm mới + business need là công ty cần cải thiện/tạo mới 1 quy trình/sản phẩm + legal requirement là luật có thay đổi, cần tuân theo => Đều liên quan đến thay đổi hoặc tạo mới nên là lý do init 1 dự án",
+                "count": 1
+            },
+            {
+                "text": "1",
+                "count": 1
+            },
+            {
+                "text": "done",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "image": "img_1.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 19
+            },
+            {
+                "text": "B  Không phải Always tệ nhất, mỗi dự án thì phù hợp một kiểu tổ chức khác nhau, không có cái nào luôn tốt cũng không có cái nào luôn xấu.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "img_2.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 19
+            },
+            {
+                "text": "A  Giống kiểu ngon-bổ-rẻ, thì Scope-Cost-Time cũng thế, khi muốn thêm tính năng tức là tăng Scope (Phạm vi), thì Cost và Time sẽ phải tăng để bù (tăng ca, thuê thêm người, gia hạn dự án)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "img_3.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 19
+            },
+            {
+                "text": "A  Close Project or Close Phase là quy trình kết thúc dự án hoặc giai đoạn, khi kết thúc thì Project archives (hợp đồng, thiết kế dự án, tài liệu quản lý rủi ro vv) quan trọng rồi, những thứ còn lại thì được thực hiện trong dự án chứ không phải ở cuối. (Giữ tài liệu lại để tham chiếu hoặc tái sử dụng, đào tạo, lưu trữ)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "img_4.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 19
+            },
+            {
+                "text": "A  Develop Project Charter diễn ra ở Initiating chứ không phải planning, Project Charter (Điều lệ dự án) là tài liệu bao gồm những thông tin như mục tiêu dự án, các bên liên quan, ngân sách, vv.. nên phải để ở đầu tiên (init)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "img_5.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 18
+            },
+            {
+                "text": "D  Tưởng tượng đơn giản thì nếu bạn là Sponsor thì không rảnh làm cái  Project Charter (Điều lệ dự án), mà cái đấy phải do PM soạn thảo dựa trên yêu cầu của Sponsor. Sponsor hoặc người/bộ phận cấp cao chỉ đọc rồi ký thôi.",
+                "count": 1
+            },
+            {
+                "text": "dê",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "img_6.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 19
+            },
+            {
+                "text": "C  Scope creep (creep nghĩa kiểu hèn hèn, tăng chậm nhưng không kiểm soát) là phạm vi dự án tăng không kiểm soát, không chính thức. Ví dụ mỗi buổi họp báo cáo tiến độ thì khách cứ bảo làm A luôn, à làm thêm B nhé, cái C cũng phải thêm vào, khiến Team member cảm thấy project seems like it will never end",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "image": "img_7.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 19
+            },
+            {
+                "text": "A  Performance Measurement Baseline (PMB) là tập hợp đường cơ sở về scope, time, cost đã được phê duyệt. Nên khi thực hiện thực tế thì phải so sánh với cái đã định để xem có đang thực hiện đúng tiến độ hay không.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "image": "img_8.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 19
+            },
+            {
+                "text": "B  Một quy trình quản lý thay đổi tốt phải thiết lập ngưỡng phê duyệt (change thresholds) phù hợp với từng loại thay đổi.  Ví dụ: Thay đổi nhỏ ->PM có thể tự phê duyệt. Thay đổi lớn -> cần hội đồng phê duyệt",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "image": "img_9.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 19
+            },
+            {
+                "text": "B  capturing lessons là để capture (B) chứ không phải là show cái khó (A), punish (C) hay show ur the best (D)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "image": "img_10.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "B  Project Scope Statement nên mô tả rõ những gì sẽ bao gồm (in-scope) trước, để tất cả các bên liên quan hiểu chính xác phạm vi dự án, nếu only out-of-scope thì người đọc sẽ bị mơ hồ vì phải đoán",
+                "count": 1
+            },
+            {
+                "text": "in-scope = sẽ làm out-of-scope = không làm",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "image": "img_11.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 11
+            },
+            {
+                "text": "Assumptions are things believed to be true Constraints are real",
+                "count": 1
+            },
+            {
+                "text": "A",
+                "count": 2
+            },
+            {
+                "text": "B. Constraints có thể được coi là sự thật hiển nhiên. Còn assumptions thì tùy trường hợp, có thể đúng hoặc sai.",
+                "count": 1
+            },
+            {
+                "text": "B  + Assumptions = Giả định -> chưa chắc đúng  + Constraints = Ràng buộc -> là sự thật, buộc phải tuân theo. Ví dụ: “Ngân jack tối đa 5 triệu.”",
+                "count": 1
+            },
+            {
+                "text": "B. Constraints are believed to be true, while assumptions are true in nature.",
+                "count": 2
+            },
+            {
+                "text": "b  Not nên chọn ngược",
+                "count": 1
+            },
+            {
+                "text": "Cho em hỏi nếu câu này không có \"not\" thì chọn A đúng kh ạ",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "image": "img_12.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 17
+            },
+            {
+                "text": "A create by the Project team mới đúng",
+                "count": 1
+            },
+            {
+                "text": "A  WBS không thể just by the PM, phải co-op bởi Project team và các bên liên quan mới đủ và đúng.",
+                "count": 1
+            },
+            {
+                "text": "B",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "image": "img_13.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 19
+            },
+            {
+                "text": "C  Chia nhỏ đến mức không thể chia nhỏ việc được nữa, có ước lượng thực tế, và kết quả rõ ràng. Còn 1 việc dù nhỏ những có khi vẫn cần nhiều người làm mà, nên chia theo kiểu đếm người là mơ hồ, không logic.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "image": "img_14.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 18
+            },
+            {
+                "text": "C  Khi ước lượng thời lượng hoạt động EAD thì cần các input:  + EEF và OPA (để hiểu doanh nghiệp và quy trình) + Risk Register & Scope Statement (để hiểu rủi ro và phạm vi) + Resource Calendars & Resource Breakdown Structure (để biết tài nguyên nào, khi nào có thể dùng).  C sai vì Project Documents Updates là output, còn Requirements Specifications thuộc giai đoạn xác định yêu cầu.",
+                "count": 1
+            },
+            {
+                "text": "C. Project Documents Updates & Requirements Specifications",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "image": "img_15.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "B  Even thì chỉ có milestone (cột mốc quan trọng của dự án), mấy cái kia là giai đoạn hoặc là sản phẩm, không phải là khoảnh khắc (event)",
+                "count": 1
+            },
+            {
+                "text": "B. Milestone",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "image": "img_16.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 15
+            },
+            {
+                "text": "D  Cần chính phủ xác nhận (Government approval) thì là External (Bên ngoài), quan với dân mà. Dù cho là Mandatory (bắt buộc) nhưng mà đến từ cơ quan bên ngoài (không tự quyết được) thì vẫn là External.",
+                "count": 1
+            },
+            {
+                "text": "discretionary là tùy ý , làm dự án chả ai tùy ý cả",
+                "count": 1
+            },
+            {
+                "text": "your sponsor external your team mandatory",
+                "count": 1
+            },
+            {
+                "text": "D. External vì phải xin phép chính phủ mới đc làm",
+                "count": 1
+            },
+            {
+                "text": "D. External",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "image": "img_17.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "C",
+                "count": 1
+            },
+            {
+                "text": "B Review start before Develop finish",
+                "count": 1
+            },
+            {
+                "text": "b",
+                "count": 13
+            },
+            {
+                "text": "B  Review cần Start trước khi Develop có thể Finish => Review (A) là điều kiện của Dev (B)   Nghĩa là chỉ khi Review Start thì Dev mới Finish được.  Start-to-Start (SS): A bắt đầu thì B mới được bắt đầu. Finish-to-Start (FS): A phải kết thúc rồi B mới bắt đầu. Finish-to-Finish (FF): A và B phải kết thúc gần nhau. Start-to-Finish (SF): A bắt đầu thì B kết thúc.",
+                "count": 1
+            },
+            {
+                "text": "start to finish.",
+                "count": 1
+            },
+            {
+                "text": "A",
+                "count": 1
+            },
+            {
+                "text": "khoan, hôm qua coi câu này bên true false, nó bảo called a start to finish mà ai cũng bảo false, sao đề này là chọn SF nhỉ=)))",
+                "count": 1
+            },
+            {
+                "text": "bee",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "image": "img_18.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "B  Backward = Lùi (Late = L) LS, LF Forward = Xuôi để tính ES, EF Critical path là kết quả (output), không phải cách thức Lateral pass ??? không dám chọn",
+                "count": 1
+            },
+            {
+                "text": "B. Backward pass",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "image": "img_19.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 15
+            },
+            {
+                "text": "Start → A (2) → B (4) → D (3) → End    B cần A và E, mà E = 7, nên thời gian bắt đầu B = max(2, 7) = 7 B (4) = 7 + 4 = 11 D (3) = 11 + 3 = 14 → Total = 14   (Chiều xuôi lấy max, chiều ngược lấy min)",
+                "count": 1
+            },
+            {
+                "text": "Một số chú thích: + Nếu predecessor có nhiều Activity (B có pre là A+E), thì phải chờ cả A và E xong thì mới được bắt đầu B  + ES (Early Start) Thời điểm sớm nhất một hoạt động có thể bắt đầu =  max(EF của các tiền nhiệm).  + EF (Early Finish) Thời điểm sớm nhất hoạt động kết thúc = ES + Duration  + LS: Thời điểm muộn nhất activity có thể bắt đầu mà không làm trễ dự án (Tính backward)  + LF: Thời điểm muộn nhất mà hoạt động có thể kết thúc mà không làm trễ dự án.  + Backward pass: LS = LF - Duration  + Float: Thời gian trì hoãn mà không ảnh hưởng tiến độ Float = LS - ES = LF - EF Float = 0  thì thuộc Critical Path",
+                "count": 1
+            },
+            {
+                "text": "Ví dụ xuôi:  + A: ES = 0 → EF = 0 + 2 = 2 + E: ES = 0 → EF = 0 + 7 = 7 + B: ES = max(EF(A), EF(E)) = max(2,7) = 7 → EF = 7 + 4 = 11 + C: ES = EF(A) = 2 → EF = 2 + 6 = 8 + D: ES = max(EF(B), EF(C)) = max(11,8) = 11 → EF = 11 + 3 = 14 + F: ES = EF(E) = 7 → EF = 7 + 2 = 9  End = max(EF(D), EF(F)) = 14 (ngày thứ 14)",
+                "count": 1
+            },
+            {
+                "text": "Còn Backward pass thì:   +  Gán cho End: LF(End) = EF(End) = 14 → LS(End)=14 (duration 0). + Với một hoạt động: LS = LF − Duration. + Nếu một hoạt động có nhiều successor: LF = min(LS của tất cả successor).  Ví dụ:  + D (successor = End) LF(D) = LS(End) = 14, LS(D) = 14 − 3 = 11  +  F (successor = End) LF(F) = LS(End) = 14, LS(F) = 14 − 2 = 12  +  B (successor = D) LF(B) = LS(D) = 11, LS(B) = 11 − 4 = 7  +  C (successor = D) LF(C) = LS(D) = 11, LS(C) = 11 − 6 = 5  + A (successors = B and C) LF(A) = min(LS(B), LS(C)) = min(7, 5) = 5 LS(A) = 5 − 2 = 3  +  E (successors = B and F) LF(E) = min(LS(B), LS(F)) = min(7, 12) = 7 LS(E) = 7 − 7 = 0",
+                "count": 1
+            },
+            {
+                "text": "cê",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "image": "img_20.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "B  Sau khi vẽ logic network xong thì PM sẽ làm forward pass và backward pass, như câu trước thì:  +  Forward pass => Tính ES/EF, từ đó biết total duration of the project. +  Backward pass => Tính LS/LF, từ đó biết slack (float) và critical path.",
+                "count": 1
+            },
+            {
+                "text": "bê",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "image": "img_21.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 14
+            },
+            {
+                "text": "true",
+                "count": 1
+            },
+            {
+                "text": "F",
+                "count": 1
+            },
+            {
+                "text": "A",
+                "count": 1
+            },
+            {
+                "text": "B  + Fast Tracking: Làm song song các hoạt động vốn dự kiến làm tuần tự -> tăng rủi ro, nhưng không luôn tốn thêm chi phí.  + Crashing: Thêm tài nguyên (làm thêm giờ, thuê thêm người, v.v.) để giảm thời gian -> gần như luôn tăng chi phí.",
+                "count": 1
+            },
+            {
+                "text": "Your project might pay more in order to reduce the schedule when using Crashing approach, but that is not often true if using Fast Tracking approach A. False B. True  Your project might pay more in order to reduce the schedule when using Fast Tracking approach, but that is not often true if using Crashing approach. A. True B. False",
+                "count": 1
+            },
+            {
+                "text": "bê",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "image": "img_22.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "C",
+                "count": 2
+            },
+            {
+                "text": "A",
+                "count": 5
+            },
+            {
+                "text": "Phương pháp này sử dụng các dữ liệu lịch sử (từ dự án cũ) và các tham số (số giờ, tỷ lệ lao động) để tạo ra một ước tính mới.    Các phương pháp ước tính khác​   Analogous estimating (Ước tính tương tự): So sánh với một dự án tương tự trước đó mà không tính toán chi tiết các tham số. Đây là phương pháp ít chính xác hơn. Bottom-up estimating (Ước tính từ dưới lên): Chia nhỏ dự án thành các công việc nhỏ hơn và ước tính chi phí cho từng công việc, sau đó tổng hợp lại. Đây là phương pháp rất chính xác nhưng tốn nhiều thời gian. Three-point estimating (Ước tính ba điểm): Sử dụng ba ước tính (lạc quan nhất, bi quan nhất và khả thi nhất) để tính ra một ước tính cuối cùng. Vì câu hỏi sử dụng các tham số cụ thể như số giờ và tỷ lệ lao động để tính toán, phương pháp phù hợp nhất là Parametric estimating.",
+                "count": 1
+            },
+            {
+                "text": "a hoặc b",
+                "count": 1
+            },
+            {
+                "text": "B  Analogous (Tương tự) Tham khảo cái cũ. Parametric (Tham số) Tính toán số học Bottom-up (Từ dưới lên) Kiểu quy nạp, tính nhỏ rồi cộng tổng. Three-point Trung bình 3 cái tốt max, tệ max, bình thường nhất  Không giống Parametric lắm, vì nếu dùng para thì phải kiểu tìm thông số cùng công thức rồi tính toán, còn ở bài này thì chủ yếu là sử dụng tính toán dựa trên dự án cũ. (Chỉ có thay đổi là thêm 10000 giờ lao động, trừ đi 5000 giờ thừa, rồi nhân với tỉ giá mới thôi, thay đổi biến, giữ nguyên công thức, khó có thể xem là parametric).",
+                "count": 1
+            },
+            {
+                "text": "a hay b nhỉ...",
+                "count": 1
+            },
+            {
+                "text": "B",
+                "count": 8
+            },
+            {
+                "text": "dựa vào past project để chỉnh số liệu nên B",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "image": "img_23.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 18
+            },
+            {
+                "text": "C   2 năm rồi làm gì còn giá đó nữa mà ông using the same parametric model of $50 per foot^2",
+                "count": 1
+            },
+            {
+                "text": "cê",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "image": "img_24.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "Bottom-up: scale down -> tính chính xác -> certain -> b",
+                "count": 1
+            },
+            {
+                "text": "B  Uncertain (không chắc chắn) thì làm sao sử dụng phương pháp ước lượng chi tiết kiểu Bottom up -> False",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "image": "img_25.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 17
+            },
+            {
+                "text": "A  Cost Baseline = tiền gốc Management Reserve = Phí phát sinh (dự phòng) Project Budget = Cost Baseline + Management Reserve",
+                "count": 1
+            },
+            {
+                "text": "B",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "image": "img_26.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 13
+            },
+            {
+                "text": "B",
+                "count": 2
+            },
+            {
+                "text": "A. Scope, Schedule, Cost",
+                "count": 1
+            },
+            {
+                "text": "A  EVM dùng giá trị tiền tệ (monetary value) để đo lường tiến độ và chi phí so với kế hoạch (Scope + Schedule + Cost), không có quality",
+                "count": 1
+            },
+            {
+                "text": "câu trả lời đúng là scope, schedule and budget. chứ ko bao gồm quality",
+                "count": 1
+            },
+            {
+                "text": "Bịp à bấm vào coursera nó là  True or False: Earned value integrates scope, schedule and budget and uses monetary values to assess project status. mà",
+                "count": 1
+            },
+            {
+                "text": "@dung1108 vậy nên câu kia mới false",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "image": "img_27.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 19
+            },
+            {
+                "text": "A  \"Quality is everyone's responsibility.\" W. Edwards Deming (tks GPT)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "image": "img_28.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 17
+            },
+            {
+                "text": "B  Product quality = “Cái mình nhận” Project quality = “Cách mình làm ra nó”",
+                "count": 1
+            },
+            {
+                "text": "B. True",
+                "count": 1
+            },
+            {
+                "text": "bê",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "image": "img_29.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "B  Process Improvement Plan là một phần của Project Management Plan  Plan = analysed Improvement = increase their value",
+                "count": 1
+            },
+            {
+                "text": "bê",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "image": "img_30.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 14
+            },
+            {
+                "text": "B  Quality Assurance (QA) trong dự án đúng là quá trình taking actions để triệt tiêu những yếu tố ảnh hưởng đến Project performance (Chủ động)  Quality Control (QC) thì khác, là taking actions sau khi thực hiện sản phẩm/dịch vụ để phát hiện vấn đề. (Bị động)",
+                "count": 1
+            },
+            {
+                "text": "A",
+                "count": 3
+            },
+            {
+                "text": "B. True",
+                "count": 1
+            },
+            {
+                "text": "bê",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "image": "img_31.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 15
+            },
+            {
+                "text": "B  QC là dùng tools+techniques để triển khai quality management plan để đảm bảo công việc/sản phẩm đáp ứng required quality standards.",
+                "count": 1
+            },
+            {
+                "text": "B. True",
+                "count": 1
+            },
+            {
+                "text": "bê",
+                "count": 1
+            },
+            {
+                "text": "B  control department => false quality managerment => true",
+                "count": 1
+            },
+            {
+                "text": "A",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "image": "img_32.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "B. True",
+                "count": 1
+            },
+            {
+                "text": "bê",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "image": "img_33.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 17
+            },
+            {
+                "text": "B  Không phải Conflict lúc nào cũng tiêu cực, xung đột là để thúc đẩy chúng ta tiến bộ thông qua việc giải quyết mâu thuẫn.  Giống kiểu chiến tranh thúc đẩy phát triển nhân loại theo một cách nào đó ấy. Quan trọng nằm ở cách xử lý khi xảy ra xung đột thôi, chứ đừng sợ việc nó xảy ra.",
+                "count": 1
+            },
+            {
+                "text": "b. Often beneficial",
+                "count": 1
+            },
+            {
+                "text": "bê",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "image": "img_34.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 17
+            },
+            {
+                "text": "B  Không biết role với responsibility thì kick.",
+                "count": 1
+            },
+            {
+                "text": "b  ko biết thì làm bù nhìn à",
+                "count": 1
+            },
+            {
+                "text": "bê",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "image": "img_35.webp",
+        "best_answer": "F",
+        "comments": [
+            {
+                "text": "F",
+                "count": 19
+            },
+            {
+                "text": "F  Confronting (Đối đầu) Compromising (Thỏa hiệp) Smoothing (Hòa giải) Forcing (Ép buộc) Avoiding (Tránh né)  Trong số trên thì Communicating (Giao tiếp) là chìa khóa của mọi vấn đề nhé (trừ chửi nhau lúc conflict)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "image": "img_36.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 19
+            },
+            {
+                "text": "D  Responsible (Chịu trách nhiệm thực hiện) Accountable (Chịu trách nhiệm cuối cùng) Consulted (Tham vấn) Informed (Được thông báo)  Accountable thì có chịu trách nhiệm nhưng mà cuối cùng thôi, còn người bắt tay completing the work thì là Responsible",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "image": "img_37.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 17
+            },
+            {
+                "text": "B  Giao tiếp (Communicating) là chìa khóa của thành công",
+                "count": 1
+            },
+            {
+                "text": "B. Dành từ 75%-90%",
+                "count": 1
+            },
+            {
+                "text": "bê",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "image": "img_38.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 19
+            },
+            {
+                "text": "B  Kế hoạch truyền thông cơ bản (basic communication plan) thường tập trung vào:   + Ai cần biết thông tin gì (What they need to know) + Ai sẽ trao đổi với ai (With whom to communicate) + Phương tiện truyền thông tốt nhất để truyền tải thông tin (The best medium for the communication)  Còn annual bonus thì làm nhiều ăn nhiều mắc gì liên quan truyền thông.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "image": "img_39.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 16
+            },
+            {
+                "text": "C  Downward communication (giao tiếp hướng xuống) là từ bề trên xuống bề tôi, không được vượt cấp, nên là chỉ được xuống direct reports thôi.",
+                "count": 1
+            },
+            {
+                "text": "dow=direct, up=senior",
+                "count": 1
+            },
+            {
+                "text": "C. Your direct report",
+                "count": 1
+            },
+            {
+                "text": "downward -> direct report upward -> senior management",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "image": "img_40.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 17
+            },
+            {
+                "text": "d",
+                "count": 2
+            },
+            {
+                "text": "C  Người nói (sender) phải có người nghe (receiver), tình cảm bền chặt thì phải đến từ hai phía.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "image": "img_41.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 17
+            },
+            {
+                "text": "D Đánh giá tiến độ và hiệu suất dự án không liên quan gì đến Requirement analysis.",
+                "count": 1
+            },
+            {
+                "text": "D. Requirement analysis",
+                "count": 1
+            },
+            {
+                "text": "dê",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "image": "img_42.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 16
+            },
+            {
+                "text": "A Mục tiêu chính của Project Risk Management là: +  Giảm thiểu khả năng và tác động  của tiêu cực (negative or thread) + Tăng cường khả năng và tác động của tích cực (positive or opportunities) Đề bài nói ngược",
+                "count": 1
+            },
+            {
+                "text": "a tăng cao negative, giảm lợi, thế khác j mình là spy của đối thủ cài vào phá proect =)))",
+                "count": 1
+            },
+            {
+                "text": "A. False, phải là minimize negative, maximize positive",
+                "count": 1
+            },
+            {
+                "text": "B",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "image": "img_43.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 18
+            },
+            {
+                "text": "D  EVM là để theo dõi tiến độ và hiệu suất dựa trên Cost-Schedule-Scope, không liên quan đến risk identification.",
+                "count": 1
+            },
+            {
+                "text": "dê",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "image": "img_44.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 16
+            },
+            {
+                "text": "D  enhance a risk = tăng rủi ro Rủi ro càng lớn lợi nhuận càng cao, nên tăng risk thì đồng nghĩa với opportunity cũng increase theo. Silver flag cũng là làm việc.",
+                "count": 1
+            },
+            {
+                "text": "d hiểu đơn giản là liều ăn nhiều 99% con bạc dừng lại trc khi thắng",
+                "count": 1
+            },
+            {
+                "text": "dê",
+                "count": 1
+            },
+            {
+                "text": "enhance risk => D exploit risk => B",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "image": "img_45.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 17
+            },
+            {
+                "text": "D  Tóm tắt: cần nhân lực được đào tạo, nhưng chỉ có 1 người mới được chứng nhận. Các biện pháp:   + A dự phòng tài chính (contingency reserve) loại vì rủi ro xảy ra rồi mới xử lý thì vô dụng. + B change scope là bỏ luôn phần đó (mất uy tín lắm) + C Xem chúng team làm kiểu gì  ?  + D thuê ngoài = quá oke vì không như cái A chờ xảy ra rủi ro rồi mới bỏ tiền thì thuê trước, đồng tiền đi trước là đồng tiền khôn.",
+                "count": 1
+            },
+            {
+                "text": "d cái j khó quá cứ outsource",
+                "count": 1
+            },
+            {
+                "text": "dê",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "image": "img_46.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 18
+            },
+            {
+                "text": "C  Khách hàng là chiêu cuối.",
+                "count": 1
+            },
+            {
+                "text": "cê",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "image": "img_47.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 17
+            },
+            {
+                "text": "C  Nhà đầu tư low interest (quan tâm thấp) và low power (quyền lực thấp) thì cấm từ chối, cũng đừng cố move them to cái gì, theo dõi (monitor) và do not bore them là ổn.",
+                "count": 1
+            },
+            {
+                "text": "cê",
+                "count": 1
+            },
+            {
+                "text": "High Power – High Interest → Manage Closely (quản lý chặt chẽ). High Power – Low Interest → Keep Satisfied (làm họ hài lòng). Low Power – High Interest → Keep Informed (giữ họ được thông tin). Low Power – Low Interest → Monitor (theo dõi, không cần nhiều giao tiếp).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "image": "img_48.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 16
+            },
+            {
+                "text": "B  Anh ấy biết về dự án, nhưng không against it cũng không interested it = Không nóng không lạnh thì là Neutral (Trung lập).  Supportive (Ủng hộ) Unaware (Không biết) Resistant (Phản đối) khó đấy.",
+                "count": 1
+            },
+            {
+                "text": "bê",
+                "count": 1
+            },
+            {
+                "text": "B  actively engaged => leading supported => supportive was not against => neutral",
+                "count": 1
+            },
+            {
+                "text": "neutral",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "image": "img_49.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 17
+            },
+            {
+                "text": "B  PM phải có trách nhiệm thỏa mãn mong muốn của các khác hàng (stakeholder).",
+                "count": 1
+            },
+            {
+                "text": "True",
+                "count": 1
+            },
+            {
+                "text": "bê",
+                "count": 1
+            }
+        ]
+    }
+]
